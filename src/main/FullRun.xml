@@ -1,0 +1,12 @@
+<suite name="QA Automation Suite" verbose="2" >
+  <test name="All Tests" preserve-order="true">
+    <groups>
+        <run>
+            <include name="validation"/>
+            <include name="endpoints"/>
+            <include name="roles"/>
+            <include name="selenium"/>
+        </run>
+    </groups>
+  </test>
+</suite>

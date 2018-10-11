@@ -1,0 +1,7 @@
+<suite name="Transform Suite" verbose="1" >
+  <test name="Transform Suite" >
+    <classes>
+       <class name="org.lds.cm.content.automation.tests.endpoints.TransformApiController.QATransformMatrix" />
+    </classes>
+  </test>
+</suite>

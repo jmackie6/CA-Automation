@@ -1,0 +1,118 @@
+<suite name="QA Automation Suite" >
+
+    <test name="endpoints" verbose="3" preserve-order="true">
+
+        <classes preserve-order="true">
+            <!--ENDPOINTS-->
+            <class name="org.lds.cm.content.automation.tests.OddsAndEnds">
+                <methods>
+                    <include name="websiteDown"/>
+                    <exclude name="clearChromeBrowserCache"/>
+                </methods>
+            </class>
+            <class name="org.lds.cm.content.automation.tests.endpoints.LanguageAPIController.ForeignNumeralTest" />
+            <class name="org.lds.cm.content.automation.tests.endpoints.LanguageAPIController.GetXMLByCode"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.LanguageAPIController.GetXMLByDialect"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.LanguageAPIController.GetXMLByIso3"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.MediaXmlApiController.UploadMediaXml"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.OxygenAPIController.GetEditTrackingId"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.OxygenAPIController.GetOxygenFile"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PreviewAPIController.PreviewFile"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PreviewAPIController.PreviewFileByUri"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PreviewAPIController.PreviewFileByUriAndLanguage"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.ContentGroupsTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.ContentTypesTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetAudio"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetAuthorDataTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetCssCalls"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetDocument"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetDocumentByDamIDAndVersion"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetImage"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetLanguageXml"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetMatchingFileIds"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetMediaIdByFileId"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.GetVideoUrl"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.JavaScriptCalls"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.LogEndpointTests"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.PDFEndpointTests"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.ProcessCount"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublicAPIController.ValidateHTML5"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TranslationApiController.TranslationGetDocumentTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TranslationApiController.TranslationUploadTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TranslationApiController.TranslationMetadataTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.Scriptures.IsValidBook"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.Scriptures.ScriptureRefTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TitanTests.DeleteAssetFromTitan"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.MediaServiceDetails"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.ProcessLogIdTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.PublishApiTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.UriServiceTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TransformApiController.PublishBroadcastTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TransformApiController.QASandboxTransformTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TransformApiController.TransformEditorialTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TransformApiController.TransformEndpointFileAndGroupTest"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.TransformApiController.QATransformMatrix"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.DocumentTests.DeleteDocument"  />
+            <class name="org.lds.cm.content.automation.tests.endpoints.EventCentralApiController.DeleteDocument"  />
+            <class name="org.lds.cm.content.automation.tests.QATransformTest" />
+            <class name="org.lds.cm.content.automation.tests.QAPublishTest" />
+        </classes>
+    </test>
+
+    <test name="validationErrors" verbose="3" preserve-order="true">
+        <classes preserve-order="true">
+            <class name="org.lds.cm.content.automation.tests.OddsAndEnds">
+                <methods>
+                    <include name="websiteDown"/>
+                    <exclude name="clearChromeBrowserCache"/>
+                </methods>
+            </class>
+            <class name="org.lds.cm.content.automation.tests.endpoints.CrossReferenceValidation.CrossReferenceValidationTest"/>
+            <class name="org.lds.cm.content.automation.tests.endpoints.CustomAssertionValidation.CustomAssertionValidationTest"/>
+            <class name="org.lds.cm.content.automation.tests.endpoints.LinkValidation.LinkValidationTests"/>
+            <class name="org.lds.cm.content.automation.tests.endpoints.MediaValidation.MediaValidationTests"/>
+            <class name="org.lds.cm.content.automation.tests.endpoints.SchemaValidation.SchemaValidationTest"/>
+            <class name="org.lds.cm.content.automation.tests.endpoints.ScriptureRefValidation.ScriptureRefValidationTests"/>
+        </classes>
+    </test>
+
+    <test name="roles" verbose="3" preserve-order="true">
+        <classes preserve-order="true">
+            <!--ROLES-->
+            <class name="org.lds.cm.content.automation.tests.OddsAndEnds"/>
+            <class name="org.lds.cm.content.automation.tests.RolesTests.RolesActionPresenceTesting" />
+            <class name="org.lds.cm.content.automation.tests.RolesTests.RolesMenuTesting" />
+            <class name="org.lds.cm.content.automation.tests.RolesTests.RolesPreviewTesting" />
+            <class name="org.lds.cm.content.automation.tests.RolesTests.RolesURLTesting" />
+        </classes>
+    </test>
+
+    <test name="selenium" verbose="3" preserve-order="true">
+        <classes>
+            <!--SELENIUM-->
+            <class name="org.lds.cm.content.automation.tests.OddsAndEnds"/>
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.Dashboard_Searches.Search_Load" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.Dashboard_Searches.Search_Smoke" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.Dashboard_Searches.Search_Timing" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.ActionsTest" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.BulkOperationsUI" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.DownloadPDFUI" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.LinkSearchUI" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.PreviewPage" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.ScriptureBuilderUI" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.TransformUI" />
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.GroupManagementUI" />
+        </classes>
+    </test>
+
+    <test name="API Rules" verbose="3" preserve-order="true">
+        <classes>
+            <class name="org.lds.cm.content.automation.tests.OddsAndEnds"/>
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.APIRulesSelenium.APIRulesAddNewUI"/>
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.APIRulesSelenium.APIRulesEditorialTransformUI"/>
+            <class name="org.lds.cm.content.automation.tests.SeleniumTests.APIRulesSelenium.APIRulesTransformUI"/>
+            <class name="org.lds.cm.content.automation.tests.APIRules.APIRulesDb"/>
+        </classes>
+    </test>
+</suite>
+

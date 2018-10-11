@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://lds.org/schema/ldsxml/v4/magazine/ldsMagazine.rng" type="xml"?>
+<magazine fileID="test00093_000_000" confidentiality="public">
+	<referenceHeader>
+		<publicationID type="AutomationTransformNew-era" month="03-mar" year="2018"/>
+		<projectNumber>
+			<tracking>testPD00001080</tracking>
+			<sku>test00093</sku>
+			<issn>0080-0554</issn>
+		</projectNumber>
+		<publicationLanguage>000</publicationLanguage>
+		<workTitle>AutomationTransformNew-era</workTitle>
+		<publicationDate>March 2018</publicationDate>
+		<publicationVolume>37</publicationVolume>
+		<publicationNumber>6</publicationNumber>
+		<approvalDate>2017-08-10</approvalDate>
+		<editor>Transformed</editor>
+		<nextParaID>38</nextParaID>
+		<versions>
+			<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+		</versions>
+	</referenceHeader>
+	<cover>
+		<frontCover>
+			<titleBlock>
+				<title paraID="1">New Era</title>
+			</titleBlock>
+		</frontCover>
+	</cover>
+	<masthead>
+		<titleBlock>
+			<title paraID="2">New Era, June 2007</title>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="3"><emphasis>Official monthly publication for youth of The Church of Jesus Christ of Latter-day Saints</emphasis></para>
+			<para paraID="4">The <emphasis>New Era</emphasis> can be found online at <urlRef urlPath="http://newera.lds.org">newera.lds.org</urlRef>.</para>
+			<para paraID="5">Text and visual material in the <emphasis>New Era</emphasis> may be copied for incidental, noncommercial church or home use. Visual material may not be copied if restrictions are indicated in the credit line with the artwork. Copyright questions should be addressed to Intellectual Property Office, 50 E. North Temple St., Salt Lake City, UT 84150, USA; e-mail: <urlRef urlPath="mailto:cor-intellectualproperty@ldschurch.org">cor-intellectualproperty@ldschurch.org</urlRef>.</para>
+			<para paraID="6"><strong>The First Presidency:</strong> Gordon B. Hinckley, Thomas S. Monson, James E. Faust</para>
+			<para paraID="7"><strong>Quorum of the Twelve:</strong> Boyd K. Packer, L. Tom Perry, Russell M. Nelson, Dallin H. Oaks, M. Russell Ballard, Joseph B. Wirthlin, Richard G. Scott, Robert D. Hales, Jeffrey R. Holland, Henry B. Eyring, Dieter F. Uchtdorf, David A. Bednar</para>
+			<para paraID="8"><strong>Editor:</strong> Jay E. Jensen</para>
+			<para paraID="9"><strong>Advisers:</strong> Gary J. Coleman, Yoshihiko Kikuchi, Gerald N. Lund, W. Douglas Shumway</para>
+			<para paraID="10"><strong>Managing Director:</strong> David L. Frischknecht</para>
+			<para paraID="11"><strong>Editorial Director:</strong> Victor D. Cave</para>
+			<para paraID="12"><strong>Senior Editor:</strong> Larry Hiller</para>
+			<para paraID="13"><strong>Graphics Director:</strong> Allan R. Loyborg</para>
+			<para paraID="14"><strong>Managing Editor:</strong> Richard M. Romney</para>
+			<para paraID="15"><strong>Assistant Managing Editor:</strong> Janet Thomas</para>
+			<para paraID="16"><strong>Associate Editors:</strong> David A. Edwards, Paul VanDenBerghe</para>
+			<para paraID="17"><strong>Editorial Staff:</strong> Susan Barrett, Ryan Carr, Monica Dickinson, Jenifer L. Greenwood, R. Val Johnson, Adam C. Olson</para>
+			<para paraID="18"><strong>Publications Assistant:</strong> Sally J. Odekirk</para>
+			<para paraID="19"><strong>Editorial Intern:</strong> Patricia Auxier</para>
+			<para paraID="20"><strong>Marketing Manager:</strong> Larry Hiller</para>
+			<para paraID="21"><strong>Managing Art Director:</strong> M. M. Kawasaki</para>
+			<para paraID="22"><strong>Art Director:</strong> Brent Christison</para>
+			<para paraID="23"><strong>Senior Designer:</strong> Fay P. Andrus</para>
+			<para paraID="24"><strong>Design and Production Staff:</strong> Collette Nebeker Aune, Eric P. Johnsen, Jane Ann Peters, Randall J. Pixton, Scott Van Kampen</para>
+			<para paraID="25"><strong>Printing Director:</strong> Craig K. Sedgwick</para>
+			<para paraID="26"><strong>Distribution Director:</strong> Randy J. Benson</para>
+			<para paraID="27"><strong>© 2007 by Intellectual Reserve, Inc. All rights reserved.</strong> Periodicals Postage Paid at Salt Lake City, Utah. The <emphasis>New Era</emphasis> (ISSN 0164-5285) is published monthly by The Church of Jesus Christ of Latter-day Saints, 50 E. North Temple St., Salt Lake City, UT 84150-3220, USA.</para>
+			<para paraID="28"><strong>POSTMASTER:</strong> Send address changes to Distribution Services, Church Magazines, P.O. Box 26368, Salt Lake City, UT 84126-0368, USA.</para>
+			<para paraID="29"><strong>Canada Post Information:</strong> Publication Agreement #40017431.</para>
+			<para paraID="30"><strong>Editorial Offices:</strong></para>
+			<address paraID="31"><emphasis>New Era</emphasis></address>
+			<address paraID="32">50 E. North Temple St. Rm. 2420</address>
+			<address paraID="33">Salt Lake City, UT 84150-3220, USA</address>
+			<address paraID="34">E-mail Address: <urlRef urlPath="mailto:newera@ldschurch.org">newera@ldschurch.org</urlRef></address>
+			<para paraID="35"><strong>To Submit Material:</strong> Please e-mail or send stories, articles, photos, poems, and ideas to the address above. For return, include a self-addressed, stamped envelope.</para>
+			<para paraID="36"><strong>To Subscribe: By phone:</strong> Call 1-800-537-5971 to order using Visa, MasterCard, Discover Card, or American Express. <strong>Online:</strong> Go to <urlRef urlPath="http://www.ldscatalog.com">www.ldscatalog.com</urlRef>. <strong>By mail:</strong> Send $8 U.S. check or money order to Distribution Services, P.O. Box 26368, Salt Lake City, UT 84126-0368, USA.</para>
+			<para paraID="37"><strong>To Change Address:</strong> Send old and new address information to Distribution Services at the address above. Please allow 60 days for changes to take effect.</para>
+		</bodyBlock>
+	</masthead>
+	<article fileID="test00093_000_001">
+		<referenceHeader>
+			<publicationID title="contents"/>
+			<workTitle>Contents</workTitle>
+			<pageNumber>1</pageNumber>
+			<editor>Transformed</editor>
+			<nextParaID>50</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">New Era</title>
+			<subtitle paraID="2">June 2007</subtitle>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="3">Volume 37, Number 6</para>
+		</bodyBlock>
+		<tocBlock>
+			<title paraID="4">Contents</title>
+			<tocEntry fileIDref="test00093_000_002" paraIDref="1">
+				<title paraID="5">The Message: Put Light in Your Life 2</title>
+				<byline>
+					<para paraID="6">President James E. Faust</para>
+				</byline>
+				<kicker paraID="7">Part of our coming into the light depends upon the focus of our faith.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_003" paraIDref="1">
+				<title paraID="8">Too Busy to Care 8</title>
+				<byline>
+					<para paraID="9">Annie Valentine Tintle</para>
+				</byline>
+				<kicker paraID="10">It was my job to count the cattle, but I was too busy to listen.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_004" paraIDref="1">
+				<title paraID="11">Dear Dad Notes 10</title>
+				<byline>
+					<para paraID="12">Melody Warnick</para>
+				</byline>
+				<kicker paraID="13">Dad and I were both terribly busy, but we found a way to connect.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_005" paraIDref="1">
+				<title paraID="14">Idea List: Getting the Most Out of Sacrament Meeting 13</title>
+				<kicker paraID="15">These tips help sacrament meeting become a learning experience.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_006" paraIDref="1">
+				<title paraID="16">Q&amp;A: Questions and Answers 14</title>
+				<kicker paraID="17">I’ve come back to church and tried to make a fresh start in life after making some mistakes, but I’m afraid of falling again. How can I overcome this fear?</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_007" paraIDref="1">
+				<title paraID="18"><emphasis>New Era</emphasis> Poster: Choose 17</title>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_008" paraIDref="1">
+				<title paraID="19">Soccer or Mission? 18</title>
+				<byline>
+					<para paraID="20">Alexandre Machado Vasconcelos</para>
+				</byline>
+				<kicker paraID="21">It was a choice that changed his life.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_009" paraIDref="1">
+				<title paraID="22">Missing the World Cup 21</title>
+				<byline>
+					<para paraID="23">Suzana Alves de Jesus</para>
+				</byline>
+				<kicker paraID="24">Her grand prize was a trip to the championship match, but she didn’t go.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_010" paraIDref="1">
+				<title paraID="25">A Few Extra Inches 22</title>
+				<byline>
+					<para paraID="26">Rachel R. Stephenson</para>
+				</byline>
+				<kicker paraID="27">Coming up short during a climb taught her about the Atonement.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_011" paraIDref="1">
+				<title paraID="28">Bringing Abish to Life 24</title>
+				<byline>
+					<para paraID="29">Jade Swartzberg and Shari Whyte</para>
+				</byline>
+				<kicker paraID="30">A musical presentation by the Silverdale Washington Stake is a story of faith.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_012" paraIDref="1">
+				<title paraID="31">The Extra Smile 29</title>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_013" paraIDref="1">
+				<title paraID="32">What I Learned from Doing the Dishes 30</title>
+				<byline>
+					<para paraID="33">Sherrie Mackelprang</para>
+				</byline>
+				<kicker paraID="34">A dreaded chore can bring joy.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_014" paraIDref="1">
+				<title paraID="35">What’s Up? 32</title>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_015" paraIDref="1">
+				<title paraID="36">Chain Reaction 34</title>
+				<byline>
+					<para paraID="37">Shanna Butler</para>
+				</byline>
+				<kicker paraID="38">Teens in Boston found that one invitation to church led to another and another.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_016" paraIDref="1">
+				<title paraID="39">Make Your Life a Legacy 40</title>
+				<byline>
+					<para paraID="40">Elder Mervyn B. Arnold</para>
+				</byline>
+				<kicker paraID="41">Make your name one that your family can be proud of.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_017" paraIDref="1">
+				<title paraID="42">Instant Messages 44</title>
+				<kicker paraID="43">A trip to Carthage Jail; obeying feelings of inspiration; comfort from a hymn.</kicker>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_021" paraIDref="1">
+				<title paraID="44">We’ve Got Mail 46</title>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_022" paraIDref="1">
+				<title paraID="45">What’s in It for You 47</title>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_023" paraIDref="1">
+				<title paraID="46"><emphasis>New Era</emphasis> Survey 48</title>
+			</tocEntry>
+			<tocEntry fileIDref="test00093_000_024" paraIDref="1">
+				<title paraID="47">Poem: The Perfect Day 49</title>
+				<byline>
+					<para paraID="48">Lara Deppe</para>
+				</byline>
+			</tocEntry>
+		</tocBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="49">Cover: Milly Astwood of Boston, Massachusetts, invited friends to church. See “Chain Reaction,” on p. 34. Cover photography: Shanna Butler (front) and Riley M. Lorimer (back)</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_002">
+		<referenceHeader>
+			<publicationID title="put-light-in-your-life"/>
+			<workTitle>Put Light in Your Life</workTitle>
+			<authorName>James E. Faust</authorName>
+			<pageNumber>3–7</pageNumber>
+			<subjectGroup>
+				<subject>Atonement</subject>
+				<subject>divine nature</subject>
+				<subject>faith</subject>
+				<subject>missionary work</subject>
+				<subject>morality</subject>
+				<subject>obedience</subject>
+				<subject>spirituality</subject>
+			</subjectGroup>
+			<searchTerms>
+				<authorRole>First Presidency</authorRole>
+				<collection>Message</collection>
+			</searchTerms>
+			<editor>Transformed</editor>
+			<nextParaID>53</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Put Light in Your Life</title>
+			<byline>
+				<para paraID="2">By President James E. Faust</para>
+				<para paraID="3">Second Counselor in the First Presidency</para>
+			</byline>
+			<kicker paraID="4">From a Church Educational System fireside talk given on September 8, 2002.</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<figure figType="image">
+				<image altText="President James E. Faust" webURL="FaustJE_95-99.ob.jpg"/>
+				<caption>
+					<para paraID="5">Photograph by Busath Photography</para>
+				</caption>
+			</figure>
+			<para paraID="6"><pageBreak pageNum="3"/>Many of you are struggling with your identity. Some of you may wonder what the future holds for you. The world presents alluring enticements. It is bewildering. Some of you may not only be unsure about where you are going; you may also be questioning your real worth. Let me assure you, I believe with all my heart that you are a chosen generation.</para>
+			<para paraID="7">I speak about coming out of the darkness and into the light. Micah said, “When I sit in darkness, the Lord shall be a light unto me” (<scriptureRef book="micah" chapter="7" verse="8">Micah 7:8</scriptureRef>).</para>
+			<topic>
+				<title paraID="8">How We Receive Light</title>
+				<para paraID="9">We receive light from the Lord. This can happen to us when we study the scriptures and “our eyes [are] opened and our understandings [are] enlightened” (<scriptureRef book="dc" chapter="76" verse="12">D&amp;C 76:12</scriptureRef>). Daily scripture study turns on the light of our spiritual perception and opens our understandings to further knowledge. I try to read from the scriptures at the close of the day. It brings a remarkable peace. I sleep better by doing this.</para>
+				<para paraID="10">We receive spiritual light when we attend sacrament meeting. Partaking of the sacrament and the inspiration of the worship service weekly charges our spiritual batteries.</para>
+				<para paraID="11">We receive spiritual light when we respond to calls. Serving in a calling in the Church blesses us more than it blesses others.</para>
+				<para paraID="12">We receive spiritual light when we pay our tithing, as the windows of heaven can then open up (see <scriptureRef book="mal" chapter="3" verse="10">Malachi 3:10</scriptureRef>).</para>
+				<para paraID="13">We receive spiritual light when we sing the hymns. Singing the hymns strengthens us and brings us together spiritually.</para>
+				<para paraID="14">We receive spiritual light when we pray. As a young teenager, the Prophet Joseph Smith read, “If any of you lack wisdom, let him ask of God, that giveth to all men liberally” (<scriptureRef book="james" chapter="1" verse="5">James 1:5</scriptureRef>).</para>
+				<para paraID="15">I commend to you his account of the First Vision, which followed as he determined that he would seek wisdom from God. He wrote, “When the light rested upon me I saw<nb/>…” What did he see? He saw the Father and the Son. As the vision ended, he said, “When the light had departed, I had no strength” (<scriptureRef book="js-h" chapter="1" verse="17,20">Joseph Smith—History 1:17, 20</scriptureRef>).</para>
+				<para paraID="16">Obviously, we do not expect a heavenly visitation, but we are entitled to increased spiritual and intellectual enlightenment if we first seek “the kingdom of God, and his righteousness” (<scriptureRef book="matt" chapter="6" verse="33">Matthew 6:33</scriptureRef>).</para>
+			</topic>
+			<topic>
+				<title paraID="17">What Is the Focus of Our Faith?</title>
+				<para paraID="18"><pageBreak pageNum="4"/>Part of our coming into the light depends upon the focus of our faith. Is it seen as repression or liberation? As young people mature, they feel new power, new passions, and new ambitions. Yet they are told that some of these must be restrained. Bridling our passions, or yielding appropriately to restraint, is necessary for our personal growth and progression. As Alma said, “Bridle all your passions, that ye may be filled with love” (<scriptureRef book="alma" chapter="38" verse="12">Alma 38:12</scriptureRef>).</para>
+				<para paraID="19">A few years ago a nationally broadcast program talked about imprisoned criminals who were taming wild horses. As the prisoners formed friendships with the horses, they learned about patience, controlling tempers, respect for others, and the value of working within a system. As they watched the horses learn to obey their commands, they realized how they could have avoided the terrible mistakes that had put them in prison.</para>
+				<para paraID="20">In our modern society, so many voices in books, magazines, television, and movies depict sexual intimacy outside of marriage as being socially acceptable, even desirable. Some young people, deceived by this sophistry, ask: “Why is it wrong? We are in love!” Elder Jeffrey R. Holland of the Quorum of the Twelve Apostles answered this question as follows:</para>
+				<para paraID="21">“<emphasis>In matters of human intimacy, you must wait!</emphasis> You must wait until you can give everything, and you cannot give everything until you are legally and lawfully married. To give illicitly that which is not yours to give (remember, ‘you are not your own’ [see <scriptureRef book="1-cor" chapter="6" verse="19">1 Corinthians 6:19</scriptureRef>]) and to give only part of that which cannot be followed with the gift of your whole self is emotional Russian roulette. If you persist in pursuing physical satisfaction without the sanction of heaven, you run the terrible risk of such spiritual, psychic damage that you may undermine <emphasis>both</emphasis> your longing for physical intimacy <emphasis>and</emphasis> your ability to give wholehearted devotion to a later, truer love. … On your wedding day the very best gift you can give your eternal companion is your very best self—clean and pure and worthy of such purity in return.”<noteMarker noteRef="1">1</noteMarker></para>
+			</topic>
+			<topic>
+				<title paraID="22">Faith Carries Us Out of Darkness</title>
+				<para paraID="23">Our faith is not a bundle of beliefs and practices that are too heavy to bear. Those who have come out of the darkness find that their faith carries them. Faith is not heavy; faith lifts and gives us wings to carry us over hard places. As Isaiah promised, “But they that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint” (<scriptureRef book="isa" chapter="40" verse="31">Isaiah 40:31</scriptureRef>).</para>
+				<para paraID="24">Coming out of the darkness into the light frees us from the dark side of our souls, which comes from fear, discouragement, and sin. You can tell one who has come into the light by his or her countenance and attitude. The Savior said it well: “I am come that they might have life, and that they might have it more abundantly” (<scriptureRef book="john" chapter="10" verse="10">John 10:10</scriptureRef>).</para>
+				<para paraID="25">Since September 11, 2001, we have been concerned about another form of darkness—the influence of terrorists and hijackers. You are growing up in a different world than I did. For years we traveled on <pageBreak pageNum="5"/>airplanes without having our baggage searched or going through metal detectors.</para>
+				<para paraID="26">My dear young friends, your enemies are not all terrorists and hijackers. Some are within your peer group—perhaps even among those you look upon as friends—who would encourage you to free yourselves from restraints and to try drugs, alcohol, or intimacy with someone of the opposite sex—or even the same sex. They are the critics, the dissenters, and the skeptics—anyone who keeps us in darkness and tries to keep us from finding the light in our eternal journey. Other spiritual terrorists include pornography pushers, those with no values. These people are in darkness, lack faith, and are unwilling to seek a source higher than themselves for solutions to questions and problems. Some have such egotism, poor self-image, and weak faith that they cannot conceive of obtaining light and knowledge by any other means.</para>
+			</topic>
+			<topic>
+				<title paraID="27">Become Defenders of the Faith</title>
+				<para paraID="28">All of us ought to become defenders of the faith. As we do defend our faith, we come out of darkness and move toward the light. You young people share the responsibility of proclaiming the truth of the restored gospel. You will be effective in doing this only if you try to do right in your individual lives. To do this you will need an understanding and testimony of the basic doctrines of the Church. These fundamental absolutes of our faith are first, that Jesus is the Christ, the Son of God, and the Redeemer of the world and second, that God the Father and His Son, Jesus Christ, actually appeared to the Prophet Joseph Smith, restoring the fulness of the gospel and the true Church.</para>
+				<para paraID="29">From this follows the purposes of the Church: First, to prepare its members for the perfect life. “Be ye therefore perfect, even as your Father which is in heaven is perfect” (<scriptureRef book="matt" chapter="5" verse="48">Matthew 5:48</scriptureRef>). Second, to foster and encourage its members to become a body of Saints, united in faith and works. Third, to proclaim the message of restored truth to the world. Fourth, to save our dead.</para>
+				<para paraID="30">You may be preparing to serve as full-time missionaries. To be called to serve as a missionary for this Church is not a right but a privilege. Missionary service is joyful, but it is not fun and games; it is hard work. The Lord’s admonition <pageBreak pageNum="6"/>to missionaries is contained in section 4 of the Doctrine and Covenants: “O ye that embark in the service of God, see that ye serve him with all your heart, might, mind and strength, that ye may stand blameless before God at the last day” (<scriptureRef book="dc" chapter="4" verse="2">v. 2</scriptureRef>).</para>
+				<para paraID="31">All missionary service presumes personal worthiness. The Lord said, “Be ye clean that bear the vessels of the Lord” (<scriptureRef book="dc" chapter="38" verse="42">D&amp;C 38:42</scriptureRef>). Some of you are worthy, but because of health problems may not be able to stand the rigors of proselytizing in the mission field. You may find alternative service opportunities that will be a great blessing to you.</para>
+			</topic>
+			<topic>
+				<title paraID="32">Accepting the Atonement</title>
+				<para paraID="33">A few years ago, when Elder Merrill J. Bateman of the Presidency of the Seventy was in Japan, the missionaries introduced him to a young Japanese brother who had just joined the Church. He was from a non-Christian background. When he met the missionaries, he was interested in the message, but he could not understand or feel the need for a Savior, and he didn’t have a witness regarding the gospel. One day the missionaries decided to show him a film about the Atonement. The young man saw the film, but still he didn’t have a witness.</para>
+				<para paraID="34">“The next morning he went to work. He worked in an optician’s shop making eyeglasses. … An elderly woman came in. He remembered her coming in a few weeks before. She had broken her glasses. She needed a new pair. When she had come in earlier, she didn’t have enough money and had gone away to save more in order to purchase the new glasses. As she came in that day, she again showed him her spectacles and showed him the money that she now had. He realized that she didn’t have enough yet. Then a thought came to him: <emphasis>I have some money. I don’t need to tell her. I can make up the difference.</emphasis> So he told her the money she had was adequate, took her glasses, [and] made an appointment for her to return when he had finished making the spectacles.<nb/>…</para>
+				<para paraID="35">“She returned later. He had the glasses ready for her. He handed them to her, and she put them on [and exclaimed] ‘… I see. I see.’ Then she began to cry. At that point, a burning sensation began to grow within his bosom and swelled within him. He said, ‘… I understand. I understand.’ He <pageBreak pageNum="7"/>began to cry. Out the door he ran, looking for the missionaries. When he found them, he said, ‘I see! My eyes have been opened! I know that Jesus is the Son of God. I know the stone was rolled away from the tomb and on that glorious Easter morning He arose from the dead. He can make up the difference in my life when I fall short.’”<noteMarker noteRef="2">2</noteMarker></para>
+				<para paraID="36">We can all see by the candle of inspiration, which is the Spirit of the Holy Ghost. It will light our way out of darkness and difficulty. The most sure way to come out of darkness and into the light is through communication with our Heavenly Father by the process known as divine revelation. President Wilford Woodruff (1807–98) declared, “Whenever the Lord had a people on the earth that He acknowledged as such, that people were led by revelation.”<noteMarker noteRef="3">3</noteMarker> The inspiration of God is available to all who worthily seek the divine guidance of the Holy Spirit. This is particularly true of those who have received the gift of the Holy Ghost.</para>
+			</topic>
+			<topic>
+				<title paraID="37">Revelation Continues</title>
+				<para paraID="38">Those who wish to come out of darkness and into the light must make sure they are in harmony with the inspiration and revelation that come through our prophets, seers, and revelators. Amos tells us, “Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets” (<scriptureRef book="amos" chapter="3" verse="7">Amos 3:7</scriptureRef>). The prophets have tuned in over the centuries to the celestial transmitting station with the responsibility to relay the Lord’s words to others.</para>
+				<para paraID="39">The best way for you young people to come in closer harmony with the Savior is to sustain His living prophet on the earth, the President of the Church. If we do not follow the living prophet, whoever he may be, we are in danger of dying spiritually.</para>
+				<para paraID="40">I can testify that the process of continual revelation comes to the Church very frequently. It comes daily. This is necessary for the Church to fulfill its mission. Without it we would fail. The Church constantly needs the guidance of its head, the Lord and Savior Jesus Christ.</para>
+				<para paraID="41">Continual revelation will not and cannot be forced by outside pressure from people and events. It is not the so-called “revelation of social progress.” It does not originate with the prophets; it comes from God. The Church is governed by the prophet under the inspiration, guidance, and direction of the Lord.</para>
+				<para paraID="42">My belief in and conviction of the divine truthfulness of the Church has now covered a long period of time—as long as I can remember. That testimony has grown stronger as the years have passed. The certain knowledge of the truthfulness of this gospel came before I was called to the holy apostleship and has been reconfirmed many times since. I testify to you young people that the gospel contains the answers to life’s challenges and problems. It is the sure way to happiness and the fulfillment of the Savior’s promise, which is “peace in this world, and eternal life in the world to come” (<scriptureRef book="dc" chapter="59" verse="23">D&amp;C 59:23</scriptureRef>).</para>
+			</topic>
+		</bodyBlock>
+		<notes listFormat="number">
+			<title paraID="43">Notes</title>
+			<listItem noteID="1">
+				<label>1.</label>
+				<para paraID="44">“Personal Purity,” <emphasis>New Era,</emphasis> Feb. 2000, 6.</para>
+			</listItem>
+			<listItem noteID="2">
+				<label>2.</label>
+				<para paraID="45">“Stretching the Cords of the Tent,” <emphasis>Ensign, </emphasis>May 1994, 65–66.</para>
+			</listItem>
+			<listItem noteID="3">
+				<label>3.</label>
+				<para paraID="46"><emphasis>The Discourses of Wilford Woodruff,</emphasis> sel. G. Homer Durham (1946), 138.</para>
+			</listItem>
+		</notes>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="47"><pageBreak pageNum="2"/><emphasis>The First Vision,</emphasis> by Gary Kapp, may not be copied</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="48"><pageBreak pageNum="3"/>Photograph of candle by Craig Dimond</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="49"><pageBreak pageNum="4"/>Photograph of eagle © Comstock</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="50"><pageBreak pageNum="5"/>Photograph by Matthew Reier, posed by models</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="51"><pageBreak pageNum="6"/><emphasis>O My Father,</emphasis> by Simon Dewey, courtesy of Altus Fine Art, American Fork, Utah, may not be copied</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="52"><pageBreak pageNum="7"/>Photograph by Christina Smith, posed by models</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_003">
+		<referenceHeader>
+			<publicationID title="too-busy-to-care"/>
+			<workTitle>Too Busy to Care</workTitle>
+			<authorName>Annie Valentine Tintle</authorName>
+			<pageNumber>8–9</pageNumber>
+			<subjectGroup>
+				<subject>obedience</subject>
+				<subject>priorities</subject>
+				<subject>responsibility</subject>
+			</subjectGroup>
+			<editor>Transformed</editor>
+			<nextParaID>13</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Too Busy to Care</title>
+			<byline>
+				<para paraID="2">By Annie Valentine Tintle</para>
+			</byline>
+			<kicker paraID="3">My father was counting on me. But why worry about a bunch of cows?</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="4"><pageBreak pageNum="8"/>I grew up on a farm in Washington State, where my parents raised kids and cattle. I was the youngest in our large family, and at 14 I was busy trying to balance chores at home with my budding social schedule.</para>
+			<para paraID="5">Each day after school it was my responsibility to feed and count all 60 head of cattle to make sure that each was safe. To a 14-year-old girl, this was a tedious chore, so I avoided counting them. In the winter it wasn’t as dangerous because none of the cattle were calving, but when the spring hit, it was critical that the pregnant heifers that had never given birth were each watched carefully. But I was too busy worrying about my hair and braces to be bothered about a few cows.</para>
+			<para paraID="6">I clearly remember the day I was pulled out of school and rushed home to help. One of our young heifers, my very own actually, had been in labor for three days, hidden in the woods, suffering with no food, no water, and no help. The unborn calf had perished days before, and the cow had been unable to birth it. So, with the help of a vet, my father and I had to remove it from her.</para>
+			<para paraID="7">When I pulled up in the truck and saw my father standing there, I was sure he would be angry with me. He had told me thousands of times to count the cattle, always asking if they were all there and all safe. But I was too busy to listen. I was too busy with things I thought were more important, like basketball practice. Or I would wait too long and feed them <pageBreak pageNum="9"/>in the dark, making it impossible to count the herd. At the time, my own things really did seem more important. I didn’t understand; I didn’t have the big picture yet.</para>
+			<para paraID="8">When I looked at that poor animal suffering from starvation, crippled and ruined, never again to bear a calf, I knew my father had been right. I had chosen not to listen to his simple instructions, and the consequences affected far more than my own life. I spent the next two months nursing the animal back to health, working her through the paralysis, and doing my best to repair the damage I had caused.</para>
+			<para paraID="9">My father? He loved me. He put his arms around me and knew that I would never do it again. He knew that I had learned the lesson the hard way, but it was learned. If only I had listened. It was my own laziness, my own selfish insistence on my personal comfort that had kept me from following my dad’s simple instructions that would have saved a life.</para>
+			<para paraID="10">In order to hear the warnings from our Father in Heaven, we need to listen to His counsel. God is no stranger to us. He wants to communicate with us. He has given us living prophets to ensure that we hear the things we must know to survive and be safe in these latter days. Our prophet gives us the simple instructions we need to return home safely, and we must listen.</para>
+			<para paraID="11">Read a similar story by President James E. Faust in <crossRef fileIDref="96943_000_002" paraIDref="1">“Good Shepherds,”</crossRef><emphasis> New Era,</emphasis> Mar. 1996, p. 4.</para>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="12"><pageBreak pageNum="8–9"/>Basketball practice was more important than counting the cattle, until that terrible day when I had to face the consequences of my own selfishness. (Illustrated by Paul Mann.)</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_004">
+		<referenceHeader>
+			<publicationID title="dear-dad-notes"/>
+			<workTitle>Dear Dad Notes</workTitle>
+			<authorName>Melody Warnick</authorName>
+			<pageNumber>10–12</pageNumber>
+			<subjectGroup>
+				<subject>love</subject>
+				<subject>parents</subject>
+			</subjectGroup>
+			<editor>Transformed</editor>
+			<nextParaID>27</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Dear Dad Notes</title>
+			<byline>
+				<para paraID="2">By Melody Warnick</para>
+			</byline>
+			<kicker paraID="3">Dad and I seemed rarely to see each other. How would I let him know how much I cared?</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="4"><pageBreak pageNum="11"/>It was 11 p.m. when I heard my father’s car door close outside. He was home a little early tonight. Dad was a college professor with a full load of night classes to teach, so his normal arrival time wavered somewhere between 11:30 p.m. and midnight. And since I left for my early-morning seminary class before sunup, I usually only saw him for a few flurried minutes each night. That is, if I saw him at all.</para>
+			<para paraID="5">Tonight I was brushing my teeth when he popped his head through the bathroom doorway. “How are you?” he asked. Through a mouthful of toothpaste I mumbled a response, then asked how his day had been.</para>
+			<para paraID="6">“Great,” he said boisterously. “The plane got in a few hours ago, and the bus dropped us off at the school. After that I came right home.”</para>
+			<para paraID="7">Plane? Bus? Was I missing something? He must have noticed my vacant stare, because he quickly added, “I was at a conference in Indianapolis all week.”</para>
+			<para paraID="8">He was? Why didn’t I know about this? I realized with a pang of shame that my father had just spent five days on the other side of the country, and I hadn’t even noticed he was gone.</para>
+			<para paraID="9">As my sister and I got older, it seemed like the whole family got busier until we were, as Mom liked to say, “like ships passing in the night.” We barely had time to blurt out “good morning” before we rushed in separate directions. But even with our classes and after-school activities, my sister and I couldn’t compete with Dad at being busy. His workday was longer than anyone else’s. Even when he was home, he spent hours at the computer, writing textbooks and revising lecture outlines.</para>
+			<para paraID="10">Because Dad wasn’t a member of the Church, we only saw him on Sunday mornings over our bowls of breakfast cereal. By the time the rest of the family came home after our Church meetings, he had usually disappeared to his office at the college to get more work done.</para>
+			<para paraID="11">I had always thought my family was a regular busy family, and I figured that feeling out of touch with my dad was just a part of such a high-speed life. Until that night over the bathroom sink, I never really considered the idea that we might be too busy.</para>
+			<para paraID="12">A few weeks later, the missionaries from our ward came to my house for dinner. Dad, of course, was missing in action, but after we had eaten, the missionaries began to ask us some questions about Dad’s feelings toward the Church. Had he ever taken the discussions? Had he read the Book of Mormon? Did he ever come to Church with us? My mother and I answered the questions as best we could. Then the elders said that they’d really like the chance to teach my father the gospel, and they wanted to enlist our help.</para>
+			<para paraID="13">Although I was usually enthusiastic about thinking up ways to help share the gospel with my father, I leaned back into my chair and frowned. “What can we do?” I asked skeptically. “We hardly ever see him.” I explained to the missionaries about Dad’s overly hectic schedule, and they nodded understandingly.</para>
+			<para paraID="14">Finally one of the missionaries, who also had a nonmember father, said, “My dad was the same way when I was in high school. He was such a workaholic that I felt like I never saw him, and we just drifted farther and farther apart. I got even busier after I joined the Church.</para>
+			<para paraID="15">“I just decided,” he went on, “that it was important for my dad to know that I loved him, that my joining the Church didn’t make me love him less. Since I didn’t see <pageBreak pageNum="12"/>him very often, I started leaving him notes. Nothing special. I just wrote a quick note telling him that I loved and appreciated him, and I made sure I put it where he’d find it.”</para>
+			<para paraID="16">“Did it work?” I asked skeptically.</para>
+			<para paraID="17">He smiled and shrugged. “Why don’t you find out for yourself?”</para>
+			<para paraID="18">It was a challenge I couldn’t refuse. That night, after I was in my pajamas and Dad still hadn’t gotten home from work, I pulled out a pad of sticky notes and wrote a quick message: “Dear Dad: I hope you had a good day. I love you.” I signed my name at the bottom and stuck the note to his computer screen, knowing Dad almost always made a stop at his computer before he finally got to bed.</para>
+			<para paraID="19">The next morning when I plodded into the bathroom still half asleep, I noticed a piece of yellow paper clinging to the mirror. “Dear Melody,” it read. “Thanks for the note. I love you too. Love, Dad.”</para>
+			<para paraID="20">I smiled, something I rarely did at 5:30 in the morning.</para>
+			<para paraID="21">For the rest of that year before I went away to college, I left notes for my father a few times a week. Nothing elaborate, just a few lines to tell him what was going on in my life, to wish him a good day, to tell him I loved him. He almost always responded with another note attached to my bathroom mirror or my bedroom door.</para>
+			<para paraID="22">As the weeks went on and our note exchange became a regular thing, it became easier to put into words how I really felt about my dad. I realized that even though I didn’t spend as much time with him as I wanted to, I really did love him. And I realized that even though he worked a lot, he really loved me too. Having a true friendship made us more eager to do things with each other, too, like trips to museums or into the city on Saturday afternoons.</para>
+			<para paraID="23">Over the years I kept a few of the sticky notes from Dad. I even taped one to the mirror in my dorm room at college just to make it feel like home. When I finally went back home for Christmas, I noticed that Dad had done the same. A piece of yellow paper with the words “Dad, I love you. Melody” was firmly attached to the top of his computer desk.</para>
+			<para paraID="24">My father never joined the Church. But when he died suddenly several years ago, the yellow sticky note was still on his computer desk, right where it had been for five years. In the weeks after his death, I felt grateful that I had found a way to communicate with Dad even when we were both at our busiest. I didn’t have to wonder whether he knew that I loved him. I knew that he looked at my words every day.</para>
+			<para paraID="25">How do you and your dad connect? Send your story to <urlRef urlPath="mailto:newera@ldschurch.org">newera@ldschurch.org</urlRef>.</para>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="26"><pageBreak pageNum="10–11, 12"/>Illustrated by Dilleen Marsh</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_005">
+		<referenceHeader>
+			<publicationID title="idea-list-getting-the-most-out-of-sacrament-meeting"/>
+			<workTitle>Idea List: Getting the Most Out of Sacrament Meeting</workTitle>
+			<pageNumber>13</pageNumber>
+			<subjectGroup>
+				<subject>Church meetings</subject>
+				<subject>sacrament</subject>
+			</subjectGroup>
+			<searchTerms>
+				<collection>Idea List</collection>
+			</searchTerms>
+			<editor>Transformed</editor>
+			<nextParaID>20</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<seriesTitle paraID="1">Idea List:</seriesTitle>
+			<title paraID="2">Getting the Most Out of Sacrament Meeting</title>
+			<kicker paraID="3">From youth of the Harlem First and Second Wards, New York Manhattan Stake</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="4"><pageBreak pageNum="13"/>Ever hear someone say, “That was a great sacrament meeting,” and wonder if they were in the same meeting you were in? Sacrament meeting is intended to bless our lives, but in order to really get the most out of it, we need to invest a little of ourselves. Here are some suggestions about …</para>
+			<topic>
+				<title paraID="5">The sacrament:</title>
+				<list listFormat="bullet">
+					<listItem>
+						<label>•</label>
+						<para paraID="6">As part of your daily study, read what the scriptures in the Topical Guide have to say about “Sacrament.”</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="7">Prepare ahead of the meeting. Arrive early, listen to prelude music, and seek revelation.</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="8">During the sacrament hymn, really think about the words of the hymn.</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="9">Review in your mind just why you are taking the sacrament.</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="10">Focus on the prayers as they are being said. Think of yourself as being placed under covenant.</para>
+					</listItem>
+				</list>
+			</topic>
+			<topic>
+				<title paraID="11">The talks:</title>
+				<list listFormat="bullet">
+					<listItem>
+						<label>•</label>
+						<para paraID="12">Decide that you are going to learn at least one new thing from each of the speakers. Then, really listen.</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="13">If a speaker seems nervous, smile and make eye contact. Avoid whispering to others. You would want the same kindness and respect if you were at the pulpit. And your thoughtfulness will help invite the Spirit to teach you.</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="14">Imagine you are going to have to write a report about a talk. What good points does the speaker make?</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="15">Write down questions about the topic of a talk so you can research them later.</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="16">Bring a nonmember or less-active friend. You’ll find yourself paying attention and learning more in case your friend has questions or wants to talk about what he or she has heard.</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="17">Remember that if you approach the talks with an attitude of wanting to learn, the Spirit can teach you the things <emphasis>you</emphasis> need to learn, even if the speakers don’t mention them directly.</para>
+					</listItem>
+				</list>
+				<para paraID="18">What do <emphasis>you</emphasis> do to get the most out of sacrament meeting? Tell us at <urlRef urlPath="mailto:newera@ldschurch.org">newera@ldschurch.org</urlRef>.</para>
+			</topic>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="19">Illustrated by Scott Greer</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_006">
+		<referenceHeader>
+			<publicationID title="q-and-a-questions-and-answers"/>
+			<workTitle>Q&amp;A: Questions and Answers</workTitle>
+			<pageNumber>14–16</pageNumber>
+			<subjectGroup>
+				<subject>commitment</subject>
+				<subject>obedience</subject>
+				<subject>repentance</subject>
+			</subjectGroup>
+			<searchTerms>
+				<collection>Questions and Answers</collection>
+			</searchTerms>
+			<editor>Transformed</editor>
+			<nextParaID>35</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Q&amp;A:<br/>Questions and Answers</title>
+			<kicker paraID="2">Responses are intended for help and perspective, not as pronouncements of Church doctrine.</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<topic>
+				<title paraID="3">“I’ve come back to church and tried to make a fresh start in life after making some mistakes, but I’m afraid of falling again. How can I overcome this fear?”</title>
+				<topic>
+					<title paraID="4">New Era</title>
+					<list listFormat="bullet">
+						<listItem>
+							<label>•</label>
+							<para paraID="5"><pageBreak pageNum="14"/>To overcome your fear of falling away, “press forward” on the strait and narrow path.</para>
+						</listItem>
+						<listItem>
+							<label>•</label>
+							<para paraID="6">Obey the word of God, found in the scriptures and teachings of latter-day prophets.</para>
+						</listItem>
+						<listItem>
+							<label>•</label>
+							<para paraID="7">Worship God, seek to feel His love, and repent so the Savior can strengthen you.</para>
+						</listItem>
+						<listItem>
+							<label>•</label>
+							<para paraID="8">Disregard people who make fun of you for trying to do what’s right.</para>
+						</listItem>
+					</list>
+					<para paraID="9">You’re not alone in this challenge. We all make mistakes, and we can all fall if we’re not careful. You can find some answers to your question in <scriptureRef book="1-ne" chapter="8">1 Nephi 8</scriptureRef>, a description of Lehi’s vision. Here are a few things Lehi saw that can help you:</para>
+					<para paraID="10">He saw people “pressing forward” on the strait and narrow path—that is, trying to be faithful. But some of them “wandered off and were lost” (<scriptureRef book="1-ne" chapter="8" verse="23">v. 23</scriptureRef>). Some made it to the tree of life but then “were ashamed, because of those that were scoffing at them; and they fell away into forbidden paths and were lost” (<scriptureRef book="1-ne" chapter="8" verse="28">v. 28</scriptureRef>). Others succeeded; they “did press their way forward, continually holding fast to the rod of iron, until they came forth and fell down and partook of the fruit of the tree” (<scriptureRef book="1-ne" chapter="8" verse="30">v. 30</scriptureRef>). The fruit of the tree represents the love of God—the blessings of the Atonement of Jesus Christ.</para>
+					<list listFormat="number">
+						<preamble paraID="11">Notice what they did to succeed. If you do these things, you can overcome your fear of falling away.</preamble>
+						<listItem>
+							<label>1.</label>
+							<para paraID="12"><strong><emphasis> Press forward.</emphasis></strong> Nephi explains: “Ye must press forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life” (<scriptureRef book="2-ne" chapter="31" verse="20">2 Nephi 31:20</scriptureRef>).</para>
+						</listItem>
+						<listItem>
+							<label>2.</label>
+							<para paraID="13"><strong><emphasis> Hold fast to the iron rod.</emphasis></strong> Nephi said the iron rod is “the word of God; and whoso would hearken unto the word of God, and would hold fast unto it, they would never perish; neither could the temptations and the fiery darts of the adversary overpower them unto blindness, to lead them away” (<scriptureRef book="1-ne" chapter="15" verse="24">1 Nephi 15:24</scriptureRef>).</para>
+						</listItem>
+						<listItem>
+							<label>3.</label>
+							<para paraID="14"><strong><emphasis> Partake of the fruit of the tree.</emphasis></strong> To partake of the fruit means to feel the love of God in your life. You can pray to feel that love, and you can repent, allowing the Atonement to bless your life.</para>
+						</listItem>
+						<listItem>
+							<label>4.</label>
+							<para paraID="15"><strong><emphasis> Disregard those who make fun of you for doing what’s right.</emphasis></strong> In Lehi’s dream, those who paid attention to the mocking people in the great and spacious building fell away. That <pageBreak pageNum="15"/>building represents the pride and beliefs of the world. Because that building had no foundation, “it fell, and the fall thereof was exceedingly great” (<scriptureRef book="1-ne" chapter="11" verse="36">1 Nephi 11:36</scriptureRef>). The pride of the world is temporary; doing what’s right will bless you forever.</para>
+						</listItem>
+					</list>
+					<para paraID="16">Doing these four things will help you build on the foundation of the gospel of Jesus Christ, “which is a sure foundation, a foundation whereon if men build they cannot fall” (<scriptureRef book="hel" chapter="5" verse="12">Helaman 5:12</scriptureRef>).</para>
+					<figure figType="image">
+						<image altText="Elder Jeffrey R. Holland" webURL="HollandJR_04.jpg"/>
+						<caption>
+							<para paraID="17"><pageBreak pageNum="16"/>“The power of your covenants is greater than the power of temptation. Don’t let the fear of past transgressions weaken your resolve to repent and abandon them. Remember! God has promised to save you ‘from the hand of him that hated [you], and [redeem you] from the hand of the enemy’ (<scriptureRef book="ps" chapter="106" verse="10">Psalm 106:10</scriptureRef>).”<br/><strong>Elder Jeffrey R. Holland of the Quorum of the Twelve Apostles, “What I Wish Every New Member Knew—and Every Longtime Member Remembered,” <emphasis>Ensign,</emphasis> Oct. 2006, 14.</strong></para>
+						</caption>
+					</figure>
+				</topic>
+				<topic>
+					<title paraID="18">Readers</title>
+					<para paraID="19"><pageBreak pageNum="15"/>Three years ago I was away from the Church. My heart became sad because of my mistakes, and I decided to return to the Church. I was afraid of falling into error, so I decided to get on my knees and do what I had not done for a long time: pray to our Heavenly Father. I asked Him to help me leave the temptations so evil wouldn’t have place in my heart because it destroys my peace and saddens my soul. I put my trust in the Lord for Him to enlighten my way. Now I have peace in my heart. If you feel sad because of your sins and mistakes, read <scriptureRef book="2-ne" chapter="4" verse="17-35">2 Nephi 4:17–35</scriptureRef>.<br/>Elder John Sanchez, 21, Perú Piura Mission</para>
+					<para paraID="20">We are tempted and we make mistakes daily even though we may be in the Church. But the important thing is that we sincerely <pageBreak pageNum="16"/>repent for what we have done and constantly strive against temptation and, above all, be worthy and continually pray and ask our Heavenly Father for help, because He never forgets us. If we really want to change, He will help us because He loves us immensely.<br/>Denise E., 18, Rancagua, Chile</para>
+					<para paraID="21">When you feel afraid, pray, fast, and especially search the scriptures. The word of the Lord is there, and the answers to our questions are there. Remember that the Lord does not give any commandments without preparing the way for us to accomplish them. And He loves us so much that He forgives us when we repent.<br/>Ana A., 16, Falcón, Venezuela</para>
+					<para paraID="22">First, we must realize that Heavenly Father loves us even when we’ve fallen. The key is to get up and keep trying. Second, understand that discouragement is Satan’s tool to keep us from achieving the true happiness that can be found only in the gospel of Jesus Christ. One of the devil’s best tricks is to keep our attention focused on the sins or mistakes of the past and the fear of their reoccurrence in the future. This line of thinking only prohibits us from moving forward and bettering ourselves. Finally, here is a quote that I live by: “Don’t let the fear of striking out prevent you from playing the game.” We are children of our Heavenly Father, and with His help, we will succeed.<br/>Chad C., 20, Utah</para>
+					<para paraID="23">In your personal prayers, pour out your fears of falling away. Read the scriptures daily to gain knowledge of the gospel and to feel the Spirit. Attend every Church meeting, temple trip, and activity possible so you can feel the Spirit as much as possible. It would also be wise to seek counsel from your bishop and parents.<br/>Jaclyn B., 17, Kansas</para>
+					<para paraID="24">I know how you feel. I have come back to church, and I am now actively participating in all Church activities including missionary work. One of the lessons I’ve learned is to have strong faith in Jesus Christ. If we have faith in Him, it will help us be strong. I know that Jesus Christ is our only sure foundation, as <scriptureRef book="hel" chapter="5" verse="12">Helaman 5:12</scriptureRef> says.<br/>Cheenee L., 17, Bulacan, Philippines</para>
+					<para paraID="25">Our Heavenly Father loves us and understands us. He knows we’re not perfect and are susceptible to falling. I know my Heavenly Father loves me and gives me strength to continue on through the scriptures, prayer, and fasting. When we fall, we must always get back up.<br/>Celeste S., 20, Oslo, Norway</para>
+				</topic>
+			</topic>
+			<topic>
+				<title paraID="26">Next Question</title>
+				<para paraID="27">“Can I try alcohol and tobacco at least once so I’ll know for myself what they’re really like? I’ll never do it again. What’s the harm if it’s only once?”</para>
+				<para paraID="28">Send us your answer, along with your full name, birth date, ward and stake (or branch and district), and photograph (including your parent’s written permission to print the photo) to:</para>
+				<address paraID="29">New Era, Q&amp;A, 7/07</address>
+				<address paraID="30">50 E. North Temple St.  Rm. 2420</address>
+				<address paraID="31">Salt Lake City, UT 84150-3220, USA</address>
+				<address paraID="32">Or e-mail: <urlRef urlPath="mailto:newera@ldschurch.org">newera@ldschurch.org</urlRef></address>
+				<para paraID="33">Please respond by July 15, 2007.</para>
+			</topic>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="34"><pageBreak pageNum="15"/>Photograph by Craig Dimond, posed by model</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_007">
+		<referenceHeader>
+			<publicationID title="new-era-poster"/>
+			<workTitle><emphasis>New Era</emphasis> Poster</workTitle>
+			<pageNumber>17</pageNumber>
+			<subjectGroup>
+				<subject>agency</subject>
+				<subject>obedience</subject>
+			</subjectGroup>
+			<searchTerms>
+				<collection>Poster</collection>
+			</searchTerms>
+			<editor>Transformed</editor>
+			<nextParaID>4</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1"><emphasis>New Era</emphasis> Poster</title>
+		</titleBlock>
+		<bodyBlock>
+			<figure figType="image">
+				<image altText="Poster" targetURL="ne07jun17_poster.jpg" webURL="ne07jun17_poster.jpg"/>
+				<credit>
+					<para paraID="2">Photograph by David Tipling © Getty Images</para>
+				</credit>
+			</figure>
+			<para paraID="3">Choose<br/>Good and evil are polar opposites. (See <scriptureRef book="2-ne" chapter="2" verse="27">2 Nephi 2:27</scriptureRef>.)</para>
+		</bodyBlock>
+	</article>
+	<article fileID="test00093_000_008">
+		<referenceHeader>
+			<publicationID title="soccer-or-mission"/>
+			<workTitle>Soccer or Mission?</workTitle>
+			<authorName>Alexandre Machado Vasconcelos</authorName>
+			<pageNumber>18–20</pageNumber>
+			<subjectGroup>
+				<subject>athletics</subject>
+				<subject>missionary work</subject>
+			</subjectGroup>
+			<editor>Transformed</editor>
+			<nextParaID>19</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Soccer or Mission?</title>
+			<byline>
+				<para paraID="2">By Alexandre Machado Vasconcelos</para>
+			</byline>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="3"><pageBreak pageNum="18"/>Like other prospective missionaries, Lohran Saldanha Queiroz had to make a choice to serve a mission or not. But besides deciding whether to give up school, work, family, and friends for two years, Lohran had another tough choice: serve a mission or have the opportunity to play professional soccer in Brazil?</para>
+			<para paraID="4">Lohran, a member of the Barra da Tijuca Ward, Rio de Janeiro Brazil Jacarepaguá Stake, has soccer in his blood. His father, Milton, is known simply as Tita throughout Brazil. He has played professionally in five countries, won many titles, been a top scorer in the state, and played on the national team.</para>
+			<para paraID="5">Tita noticed his son’s ability early on. “I grew up with a soccer ball always close by,” Lohran remembers. “My father has always encouraged me. I started accompanying him to his practices when I was three or four and have been around professional players ever since.”</para>
+			<para paraID="6">Formal training began for Lohran at age 6 in Mexico, where his father was playing soccer at the time. By age 12 he was playing in elite competitions back in Brazil. And when he was 17 Lohran played in the junior league—the fast track <pageBreak pageNum="19"/>to professional recruitment. Lohran seemed destined for soccer stardom. But his 18th birthday was quickly approaching, and he started thinking more seriously of missionary service.</para>
+			<para paraID="7">Lohran explains the dilemma: “I wanted to be a soccer player, and I wanted to be a missionary. They expect a player to go straight from the junior team to the professional league. To stop playing for two years and then expect to be hired at 21 is almost unthinkable.”</para>
+			<para paraID="8">At age 17 Lohran made some decisions that led to what he calls the beginning of his conversion. He set goals to read the Book of Mormon daily, fast, and pray. He attended Mutual, firesides, and other Church activities more often. And when he began working regularly <pageBreak pageNum="20"/>with the missionaries, he found a love of the people he visited and prayed for. He wanted them to have the blessings of the gospel. His desire to serve a mission began to grow. But when would it be best for him to serve? And what would happen to his soccer career after a two-year interruption?</para>
+			<para paraID="9">Lohran sought to learn God’s will through fasting and prayer. That very week, he noticed the recently delivered issue of the <emphasis>New Era</emphasis> magazine in his home, and he began thumbing through it. He was attracted to the article “Ice Dreams,” about ice skater Chris Obzansky, who interrupted a promising skating career to serve a mission at age 19, losing the opportunity to compete in the 2006 Winter Olympics.</para>
+			<para paraID="10">One passage in particular caught Lohran’s attention: as Chris was in sacrament meeting listening to his Young Men president talk about his own mission call, the Spirit told Chris, “You need to serve a mission when you’re 19, or you’re going to have a tough life.” Chris said, “The message was so clear I actually turned around to see if someone was there. The feeling came back 10 times stronger, and I knew I had to go on a mission.”<noteMarker noteRef="1">1</noteMarker></para>
+			<para paraID="11">Lohran smiles. “When I read that, I felt it had been written for me. Age 19 is the age prescribed by the Lord. I realized that was the answer I needed, and it was like an enormous weight was taken off my back.” The time for Lohran to serve a mission was now. He talked to his bishop, made the necessary preparations, and never looked back. “It was not even difficult to make the decision of leaving soccer behind,” he says, “for I knew it was the right time to do it.”</para>
+			<para paraID="12">Lohran served in his country’s capital, in the Brazil Brasília Mission. He was known as “Elder Happy” because of his contagious enthusiasm. “I am exceptionally happy serving people, sharing with them what I know is true,” he says. “It is so gratifying to see people change their lives after learning the gospel.”</para>
+			<para paraID="13">Like all missionaries, though, he experienced his share of hardships. “Obviously, missionary life is not all fun,” he says. “There are difficulties, moments of weakness and loneliness, but all that is next to nothing compared to the treasures of a mission. These are years I’ll never forget, that I’ll always have in my mind and, more important, my heart.”</para>
+			<para paraID="14">A few months ago he finished serving a successful mission. Now that he’s home, he has joined a soccer team in Rio de Janiero and believes more chances to continue his soccer career will come his way. With faith he says, “I am now waiting for the opportunities to come, opportunities that our Heavenly Father will bless me to enjoy.”</para>
+			<topic>
+				<title paraID="15">Note</title>
+			</topic>
+		</bodyBlock>
+		<notes listFormat="number">
+			<listItem noteID="1">
+				<label>1.</label>
+				<para paraID="16">Quoted in Shanna Butler, <emphasis>New Era,</emphasis> Jan. 2004, 22.</para>
+			</listItem>
+		</notes>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="17"><pageBreak pageNum="18, 19, 20"/>Photographs by Alexandre Machado Vasconcelos and courtesy of the Queiroz family</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="18"><pageBreak pageNum="18–20"/>Previous pages: Lohran turned in his soccer uniform for the white shirt and tie of a missionary. Below: Lohran shows his athletic skills at a young age. Top right and bottom: Lohran with his father and with his father’s team.</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_009">
+		<referenceHeader>
+			<publicationID title="missing-the-world-cup"/>
+			<workTitle>Missing the World Cup</workTitle>
+			<authorName>Suzana Alves de Melo</authorName>
+			<pageNumber>21</pageNumber>
+			<subjectGroup>
+				<subject>example</subject>
+				<subject>peer pressure</subject>
+				<subject>Sabbath</subject>
+			</subjectGroup>
+			<editor>Transformed</editor>
+			<nextParaID>11</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Missing the World Cup</title>
+			<byline>
+				<para paraID="2">By Suzana Alves de Melo</para>
+			</byline>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="3"><pageBreak pageNum="21"/>There is one sport that everyone in Brazil loves—soccer. And there is no bigger soccer event than the World Cup. So when Fabiana Silva, a member of the Brasil Ward, Vitória da Conquista Brazil Stake, won a contest and got to attend the 1998 World Cup in France, she was thrilled! But she had no idea it would become a missionary opportunity.</para>
+			<para paraID="4">The other contest winners couldn’t help noticing Fabiana’s standards as they attended soccer game after soccer game, and Brazil headed to the final game against France. They respected her modest dress, her positive attitude, and her clean language. That respect turned to disbelief, though, when she told them she would not be attending the championship because it was going to be held on Sunday.</para>
+			<para paraID="5">Despite pressure and even ridicule from the group, Fabiana stood firm. Sunday found her reading scriptures in her hotel room because she didn’t know where to find a local chapel. Brazil lost; the group went home.</para>
+			<para paraID="6">A few weeks later Fabiana was surprised to receive a letter from Fábio Fan, another contest winner from across the country. He told her he was impressed by her standards and that he was investigating the Church. Later he sent another letter—he had been baptized. Fábio then helped bring members of his family into the Church and served a mission.</para>
+			<para paraID="7">Fabiana also served a mission, to Campinas, Brazil, where she was well prepared because she had already learned that “the most effective tract we will carry will be the goodness of our own lives and example.”<noteMarker noteRef="1">1</noteMarker></para>
+		</bodyBlock>
+		<notes listFormat="number">
+			<title paraID="8">Note</title>
+			<listItem noteID="1">
+				<label>1.</label>
+				<para paraID="9">Gordon B. Hinckley, “Find the Lambs, Feed the Sheep,” <emphasis>Ensign,</emphasis> May 1999, 107.</para>
+			</listItem>
+		</notes>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="10">Illustration by Daniel Lewis</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_010">
+		<referenceHeader>
+			<publicationID title="a-few-extra-inches"/>
+			<workTitle>A Few Extra Inches</workTitle>
+			<authorName>Rachel R. Stephenson</authorName>
+			<pageNumber>22–23</pageNumber>
+			<subjectGroup>
+				<subject>Atonement</subject>
+				<subject>disabilities</subject>
+				<subject>grace</subject>
+			</subjectGroup>
+			<editor>Transformed</editor>
+			<nextParaID>15</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">A Few Extra Inches</title>
+			<byline>
+				<para paraID="2">By Rachel R. Stephenson</para>
+			</byline>
+			<kicker paraID="3">I learned that thanks to the Atonement, nothing is beyond my reach.</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="4"><pageBreak pageNum="22"/>Like many people I meet, my new friends at camp were not sure what to make of me at first. I was born with a genetic condition called achondroplasia (commonly known as dwarfism), and I stand only four feet, four inches (1.3 meters) tall with unusually short arms and legs. Once people get to know me, they find that I am just a regular girl and my height seems to make no more difference than my hair color. Soon my new friends and I were doing everything together.</para>
+			<para paraID="5">One day at camp we all had the chance to take on the confidence course, a high ropes challenge. For this activity, each participant was strapped into a climber’s harness and had to climb halfway up a steep, notched telephone pole and then up a climbing wall featuring handholds placed randomly across its face. The whole time an instructor watched and waited on a platform high above the climber holding a safety rope attached to the climber’s harness.</para>
+			<para paraID="6">For most participants, the course’s height and degree of difficulty made for an imposing obstacle. Still, most of my friends were determined to meet the challenge. In spite of my physical shortcomings, I try to do all I can to match the abilities of average-sized people, and so I decided to attempt the climb.</para>
+			<para paraID="7">Before I knew it, I was suited up with climbing helmet and harness, standing at the base of the notched pole. As I began to climb, I heard encouragement from <pageBreak pageNum="23"/>my friends below and from my instructor above. I soon discovered that no matter how hard I tried, my reach was insufficient for the spacing of the notches, which were designed for people with “normal wingspans.”</para>
+			<para paraID="8">The instructor at the top watched as I struggled and, when he saw that I had stretched just as far as I was able, he pulled up on the rope a few extra inches allowing me to reach the next handhold. He then relaxed his tension, allowing me to do all of the work that I could.</para>
+			<para paraID="9">After much effort I would try for the next handhold. Again I was just inches short of reaching. But because of a caring person at the top who wanted me to succeed, I was again lifted those few extra inches needed to reach the next level. It continued this way, with few exceptions, until I was at last at the top.</para>
+			<para paraID="10">The instructor congratulated me, and I felt such appreciation, not only for the help he gave me but also for the fact that he let me do all that I could for myself. It was our success, not his or mine alone.</para>
+			<para paraID="11">A few weeks after the camp, my family was asked to speak in sacrament meeting on the grace of God. As I studied for the talk, my mind went back to my experience on the confidence course. I was able to recognize how often in my life the Lord has acted much like that instructor, encouraging me to succeed, letting me do all I can do in the struggles of life before giving me just the amount of boost required for the task at hand.</para>
+			<para paraID="12">The Apostle Paul tells us that all of us have shortcomings and that none of us have the reach needed to ascend back to our Father. “For all have sinned, and come short of the glory of God” (<scriptureRef book="rom" chapter="3" verse="23">Romans 3:23</scriptureRef>). I am grateful for Jesus Christ’s Atonement, which is the means by which we can all ascend if we continue to put forth our best efforts. I know that He cares for me and will gently lift me while allowing me the freedom to grow. After all, “it is by grace that we are saved, after all we can do” (<scriptureRef book="2-ne" chapter="25" verse="23">2 Nephi 25:23</scriptureRef>).</para>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="13"><pageBreak pageNum="22–23"/>Illustrated by Richard Hull</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="14"><pageBreak pageNum="22"/>Photo courtesy of the Stephenson family</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_011">
+		<referenceHeader>
+			<publicationID title="bringing-abish-to-life"/>
+			<workTitle>Bringing Abish to Life</workTitle>
+			<authorName>Jade Swartzberg and Shari Whyte</authorName>
+			<pageNumber>24–28</pageNumber>
+			<subjectGroup>
+				<subject>Book of Mormon</subject>
+				<subject>talents</subject>
+				<subject>testimony</subject>
+				<subject>women</subject>
+			</subjectGroup>
+			<editor>Transformed</editor>
+			<nextParaID>31</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Bringing Abish to Life</title>
+			<byline>
+				<para paraID="2">By Jade Swartzberg and Shari Whyte</para>
+			</byline>
+			<kicker paraID="3">One small Book of Mormon story has made a big difference in the lives of the youth of Silverdale, Washington.</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="4"><pageBreak pageNum="24"/>Mentioned by name only once, Abish and her story may be easy to miss, hidden in Alma’s account of Ammon’s mission and King Lamoni’s conversion. But the youth of the Silverdale Washington Stake have not missed her and have shared her story of faith through an original musical production called, quite fittingly, <emphasis>Abish.</emphasis></para>
+			<para paraID="5">The play was written and directed by stake leaders and involved the youth in a variety of ways through acting, singing, playing in the live orchestra, costuming, set design, lighting, and sound. The production, which was presented as a part of a stake youth conference, took a lot of time and dedication. It also took a lot of faith.</para>
+			<topic>
+				<title paraID="6">Faith Like Abish</title>
+				<para paraID="7">Miranda Feltdman is not a member of the Church; she had never heard of the Book of Mormon before she was invited to audition for the musical. A stake leader knew her and felt prompted to call her. It took courage for Miranda to try out for the play, but she did, and landed a lead role—the part of Abish.</para>
+				<para paraID="8">“I was really worried initially—it was my first time playing a lead role in a musical. But everyone was really supportive and had faith in me, and eventually I learned to have that sort of faith in myself,” recalls Miranda.</para>
+				<para paraID="9">That faith helped her understand the role she was playing, although at first she was worried she wouldn’t be able to. “I realized that Abish really was almost exactly like me and every other young man or woman out there at some point in their life. She has to learn fairly quickly to stick to her convictions no matter what, even if the entire world—or the court in this case—seems set against her.”</para>
+				<para paraID="10">Abish’s story taught the youth that with God, anything is possible. They learned this as they juggled hectic high school schedules and play rehearsals to make the production happen.</para>
+				<para paraID="11">Steven Connell of the Silverdale Second Ward found himself turning to prayer for help. “There were many times when nothing seemed to be going right. I wanted to devote all my time to the play and not have to deal with <pageBreak pageNum="26"/>anything else, but I couldn’t do that. There was homework, finals, and just everyday high shool life that demanded my attention. I had to pray that the production would be what Heavenly Father expected and that it would be a great missionary tool for the youth and the others in the audience.”</para>
+				<para paraID="12">Kyle Hollenback of the Poulsbo Second Ward also learned that faith and prayer were just as important in their lives as they were in the story. “I prayed that I would receive the strength and confidence to somehow find the talent to sing and perform. We prayed as a cast and crew that we would be guided by the Lord and that all the little kinks in the play would get worked out.”</para>
+			</topic>
+			<topic>
+				<title paraID="13">True Scripture</title>
+				<para paraID="14">Abish’s testimony of Jesus Christ began “on account of a remarkable vision of her father” (<scriptureRef book="alma" chapter="19" verse="16">Alma 19:16</scriptureRef>). She later had the opportunity to be courageous and bold in exercising her faith and bearing her testimony. Many of the youth also had the chance to catch their own personal visions of the truthfulness of the Book of Mormon as they saw the scriptures come to life and learned to relate to the people of long ago.</para>
+				<para paraID="15">As Steven Connell worked on his charcter, King Lamoni became a very real person to him. During the scene in which Lamoni feels the weight of his mistakes and longs to have his sins forgiven, Steven was so overcome by emotion that he cried. “I really felt that through faith in Jesus Christ, we can change everything about our own lives and start over again to be new and better people,” says Steven.</para>
+				<para paraID="16">Kyle Hollenback, who played Ammon, learned something not found by simply reading the Book of Mormon. “Sometimes people get in the mode of reading the Book of Mormon as a history book, but getting into our characters gave me a better understanding of the reality of this book,” he says. “I can relate to Ammon in that when called upon, I can be a little bold, like acting in this play.”</para>
+				<para paraID="17">Kendra Hollenback shares her brother’s new understanding. “After <emphasis>Abish</emphasis> the Book of Mormon doesn’t seem like a history book anymore. It’s real. You can’t just expect to get a testimony without working on it. You have to read the Book of Mormon and pray about it.”</para>
+			</topic>
+			<topic>
+				<title paraID="18">An Invitation</title>
+				<para paraID="19">Abish’s message invites all to find and share the truthfulness of the gospel of Jesus Christ. Through her faith and courage she made it possible for many to hear the word of the Lord and become converted. Many of the youth chose to be bold like Abish in sharing their testimonies as they invited their friends to attend the production.</para>
+				<para paraID="20">“There were so many people from school who came out of curiosity and have now been introduced to the Book of Mormon,” says Christina Willey of the Poulsbo Second Ward, who helped with stage management.</para>
+				<para paraID="21">Those who came were touched by the spirit of the production. From his place in the orchestra, where he played the clarinet, Scott Daly of the Silverdale First Ward was able to see that the audience was affected by what was happening onstage. “There was one scene where the queen’s servants and family kneel to pray,” he says. “During this moment, the lights in the auditorium begin to fill the room with brightness. Then I could see every smiling and crying face in the audience. The play definitely <pageBreak pageNum="28"/>strengthened my testimony of the Book of Mormon.”</para>
+				<para paraID="22">Like most of the youth involved in the play, Abish herself was not necessarily a great leader. She was primarily a poor, humble servant who put her trust in her Heavenly Father and risked her job and her friends in order to bear her testimony. And she was probably a little scared.</para>
+				<para paraID="23">Knowing that the play would be many people’s first introduction to the Church, Andrew Whyte of the Bainbridge Island Ward was nervous in his role as Abish’s father. But he was comforted and strengthened. “The Spirit helped me to put my trust in the Lord, comforted me, prompted me to pray and gave me the assurance that I would remember all my lines and sing my whole soul out,” he says.</para>
+				<para paraID="24">As a dancer in the play, Stacie Brown of the Poulsbo Second Ward learned that many people can be inspired through Abish’s story. “Every time Miranda got up on stage and did a scene, it looked like she had been a member all her life. I know that I felt the Spirit each time she performed.”</para>
+				<para paraID="25">Besides inspiring others, Miranda says she was able to witness firsthand what Latter-day Saints are really about. “I would never have traded that time in my life for anything else in the world.”</para>
+				<para paraID="26">Want to know about women in the Bible? Read <crossRef fileIDref="00606_000_011" paraIDref="1">“For She Loved Much: Women in the New Testament”</crossRef> in this month’s <emphasis>Ensign,</emphasis> p. 40.</para>
+			</topic>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="27"><pageBreak pageNum="24, 25, 26, 27, 28"/>Photographs by Bob Stoner</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="28"><pageBreak pageNum="25"/>The story of Abish is in the 19th chapter of Alma. Her name is mentioned in verse 16. She witnesses the miraculous conversion of King Lamoni, his queen, and his household. See <scriptureRef book="alma" chapter="19" verse="16-18,28-29">Alma 19:16–18, 28–29</scriptureRef>. (Above) Miranda Feldtman plays the role of Abish.</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="29"><pageBreak pageNum="27"/>Andrew Whyte (above inset), playing the role of Abish’s dying father, sings “One, but Not Alone,” giving her courage to share the gospel. (Above) Brittany Rutter, playing the queen, helps rouse King Lamoni.</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="30"><pageBreak pageNum="28"/>Steven Connell (above) played King Lamoni. He had been in plays before, “but nothing like this. Through all of the rehearsals I had to have the constant companionship of the Holy Ghost to lead and direct me in how I should play this real person.”</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_012">
+		<referenceHeader>
+			<publicationID title="the-extra-smile"/>
+			<workTitle>The Extra Smile</workTitle>
+			<pageNumber>29</pageNumber>
+			<searchTerms>
+				<collection>Extra Smile</collection>
+			</searchTerms>
+			<editor>Transformed</editor>
+			<nextParaID>6</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">The Extra Smile</title>
+		</titleBlock>
+		<bodyBlock>
+			<figure figType="image">
+				<caption>
+					<para paraID="2"><pageBreak pageNum="29"/>Illustrated by Ryan Stoker<br/>There! It took three hours, but the house is entirely clean!<br/>I’m sorry—you’ll all have to find someplace else to live!</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="3">Illustrated by Randy Glasbergen<br/>“Remember, if at first you don’t succeed … ask Mom to do it.”</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="4">Illustrated by Jon Clark<br/>“I better head home … I left my parents on the computer all by themselves.”</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="5">Illustrated by Val Chadwick Bagley<br/>“Yes, we’re Latter-day Saints. How did you know?”</para>
+				</caption>
+			</figure>
+		</bodyBlock>
+	</article>
+	<article fileID="test00093_000_013">
+		<referenceHeader>
+			<publicationID title="what-i-learned-from-doing-the-dishes"/>
+			<workTitle>What I Learned from Doing the Dishes</workTitle>
+			<authorName>Sherrie Mackelprang</authorName>
+			<pageNumber>30–31</pageNumber>
+			<subjectGroup>
+				<subject>attitude</subject>
+				<subject>work</subject>
+			</subjectGroup>
+			<editor>Transformed</editor>
+			<nextParaID>11</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">What I Learned from Doing the Dishes</title>
+			<byline>
+				<para paraID="2">By Sherrie Mackelprang</para>
+			</byline>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="3"><pageBreak pageNum="30"/>“I love to do the dishes!” Brother Eves announced each week in our Sunday School class. He was in his 60s and taught our class of 14- and 15-year-olds. I was doubtful about learning from someone who was so far removed from my own age. He always shared his testimony and stories of faith. Each lesson ended with a challenge for all of us to go home and learn to love washing the dishes, or to learn to love some other chore that we didn’t enjoy.</para>
+			<para paraID="4">I didn’t believe Brother Eves could really love to do the dishes. I figured he was just saying that to inspire us to go home and do the dishes for our parents. I listened each week as he repeated this to us, and I decided to put his words to the test.</para>
+			<para paraID="5">I had moved into Brother Eves’s ward because of my parents’ divorce, and at the time I was embarrassed and sad. My mother, my sister, and I had moved from our comfortable family home into a little trailer that was several decades old. I was scared of the changes that lay in front of me, and I was ready to cast a negative attitude on my new situation.</para>
+			<para paraID="6">We did not have a dishwasher in our new home, which meant we had to wash all of the dishes by hand. While I completed this chore, I repeated over and over in my head that I too loved to do the dishes. A few weeks went by, and I continued my experiment. I was shocked to discover that doing the dishes did actually become more enjoyable.</para>
+			<para paraID="7">I felt this pattern of work and positive attitude growing inside of me. I began thinking positively about all the good things that I had. I quit focusing on what I didn’t have and put my energy into making ordinary daily tasks into something that I enjoyed. My faith increased. I prayed for guidance to face each day’s challenges. I began reading the scriptures with more purpose. I felt my own testimony grow to a firm belief in the truth of the gospel.</para>
+			<para paraID="8">Like Moroni, Brother Eves taught that faith needs work (see <scriptureRef book="ether" chapter="12" verse="29-30">Ether 12:29–30</scriptureRef>). The fruit of my faith and work was the attitude I needed to be successful in life. I will always be thankful for that.</para>
+			<para paraID="9">See <crossRef fileIDref="26947_000_010" paraIDref="1">“What I Learned as a Corn Dog,”</crossRef> <emphasis>New Era,</emphasis> July 2006, p. 24.</para>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="10"><pageBreak pageNum="30–31"/>Illustrated by Steve Kropp</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_014">
+		<referenceHeader>
+			<publicationID title="whats-up"/>
+			<workTitle>What’s Up?</workTitle>
+			<pageNumber>32–33</pageNumber>
+			<editor>Transformed</editor>
+			<nextParaID>32</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">What’s Up?</title>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="2"><pageBreak pageNum="33"/>Remember, the family is one of God’s greatest fortresses against the evils of our day.<br/><strong>President Ezra Taft Benson (1899–1994), “To the ‘Youth of the Noble Birthright,’” <emphasis>Ensign,</emphasis> May 1986, 43.</strong></para>
+			<topic>
+				<title paraID="3">Scripture Scrambles</title>
+				<para paraID="4"><pageBreak pageNum="32"/>Unscramble these letters to make words or names from the Bible. Then unscramble the boxed letters to solve the puzzle in the quote from President Hinckley.</para>
+				<para paraID="5">LOTAPSE  _ _ _ _ [_] _ _</para>
+				<para paraID="6">ISPLETE  [_] _ _ _ [_] _ _</para>
+				<para paraID="7">UJEMRALSE  _ _ _ _ _ _ _ _ [_]</para>
+				<para paraID="8">CELIPSID  _ _ _ _ _ _ _ [_]</para>
+				<para paraID="9">LOTREEVINA  _ _ _ _ _ [_] _ _ _ [_]</para>
+				<para paraID="10">SOGLSEP  _ _ _ _ [_] _ [_]</para>
+				<para paraID="11">BSHREEW  _ _ _ _ _ [_] _</para>
+				<para paraID="12">TIRANOHINCS  _ _ _ _ _ [_] _ _ _ [_] _</para>
+				<para paraID="13">“The __ __ __    __ __ __ __ __ __ __ __ __ sets forth, in language beautiful and moving, the matchless life and sacrifice of the Savior of mankind” (“Words of the Prophet: Search the Scriptures,” <emphasis>New Era,</emphasis> Apr. 2000, 4).</para>
+				<para paraID="14"><popMarker popRef="002">Answers:</popMarker></para>
+			</topic>
+			<topic>
+				<title paraID="15">In a Word: <br/>Agency</title>
+				<para paraID="16">Your Heavenly Father has given you agency, the ability to choose and to act for yourself. Agency is essential in the plan of salvation. Without it, you would not be able to learn or progress or follow the Savior. With it, you are “free to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil” (<scriptureRef book="2-ne" chapter="2" verse="27">2 Nephi 2:27</scriptureRef>).</para>
+				<para paraID="17">Your use of this gift determines your happiness or misery in this life and in the life to come. You are free to choose and act, but you are not free to choose the consequences of your actions. You are responsible for the decisions you make. You should not blame your circumstances, your family, or your friends if you choose to disobey God’s commandments. You are a child of God with great strength. You have the ability to choose righteousness and happiness, regardless of your circumstances.</para>
+				<para paraID="18">(Adapted from <emphasis>True to the Faith: A Gospel Reference,</emphasis> which you can read online at <urlRef urlPath="http://www.lds.org">www.lds.org</urlRef> in the Gospel Library.)</para>
+			</topic>
+			<topic>
+				<title paraID="19">Keeping It Clean</title>
+				<para paraID="20"><pageBreak pageNum="33"/>Dressed in neon-green “Helping Hands” T-shirts, 150 youth from the Church descended upon the city of Ashland, Ohio, and worked to help beautify the city. The youth picked up trash along the roads entering the city. They also pulled weeds and mulched around trees at three city parks. In all, the youth provided two days and nearly 1,000 hours of volunteer service.</para>
+				<para paraID="21">Their efforts were part of last year’s Akron Ohio Stake youth conference. Weeks before the conference, the stake youth committee worked with the mayor and other city leaders to identify service projects.</para>
+				<para paraID="22">Shortly after the conference, the group gave the mayor a copy of the Book of Mormon with a handwritten testimony about the gospel and the joy of service. Along the way, 150 copies of the Book of Mormon were given to members of the Ashland Branch for them to hand out to friends and family in the community.</para>
+				<para paraID="23">The mayor was so touched by the whole experience that all he could say, in a humble and emotional voice, was “thank you.”</para>
+			</topic>
+			<topic>
+				<title paraID="24">Seeing Signs</title>
+				<para paraID="25">There are a lot of missionaries out there who are seeing signs—road signs, that is. Here are some of our favorite sign photos that missionaries have sent to the <emphasis>New Era.</emphasis></para>
+				<para paraID="26">What’s up where you are? Let us know at <urlRef urlPath="mailto:newera@ldschurch.org">newera@ldschurch.org</urlRef>.</para>
+			</topic>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="27">Painting by James Fairman, courtesy of Museum of Church History and Art</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="28">Photograph by Kelly A. Larsen</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="29">Photograph courtesy of the Akron Ohio Stake</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="30">Photographs courtesy of Ryan Harris, Mike Haire, Jeff Curtis, Jason Stucki, and Jared Price</para>
+				</caption>
+			</figure>
+			<popContentGroup>
+				<popContent popID="002">
+					<para paraID="31">APOS<underline>T</underline>LE, <underline>E</underline>PIS<underline>T</underline>LE, JERUSALE<underline>M</underline>, DISCIPL<underline>E</underline>, REVEL<underline>A</underline>TIO<underline>N</underline>, GOSP<underline>E</underline>L<underline>S</underline>, HEBRE<underline>W</underline>S, CORIN<underline>T</underline>HIA<underline>N</underline>S<br/>New Testament</para>
+				</popContent>
+			</popContentGroup>
+		</resources>
+	</article>
+	<article fileID="test00093_000_015">
+		<referenceHeader>
+			<publicationID title="chain-reaction"/>
+			<workTitle>Chain Reaction</workTitle>
+			<authorName>Shanna Butler</authorName>
+			<pageNumber>34–39</pageNumber>
+			<subjectGroup>
+				<subject>conversion</subject>
+				<subject>friendship</subject>
+				<subject>responsibility</subject>
+				<subject>scriptures</subject>
+			</subjectGroup>
+			<editor>Transformed</editor>
+			<nextParaID>55</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Chain Reaction</title>
+			<byline>
+				<para paraID="2">By Shanna Butler</para>
+			</byline>
+			<kicker paraID="3">For a group of teens in Boston, one good turn led to many others.</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="4"><pageBreak pageNum="34"/>Jonathan Ubri and his friends in the Boston First Ward, Boston Massachusetts Stake, know that President Gordon B. Hinckley is a prophet of God. They also know that what he says is true: “Every [convert to the Church] needs three things: a friend, a responsibility, and nurturing with ‘the good word of God’ (<scriptureRef book="moro" chapter="6" verse="4">Moroni 6:4</scriptureRef>).”<noteMarker noteRef="1">1</noteMarker></para>
+			<para paraID="5">Jonathan, Milly Astwood, and Bernard Lewis know these words are true because they have lived them, and they have started a chain reaction of goodness in their lives and in the lives of others.</para>
+			<topic>
+				<title paraID="6">A Friend</title>
+				<para paraID="7"><emphasis>“I invite every member to reach out in friendship and love for those who come into the Church as converts.”—President Gordon B. Hinckley</emphasis><noteMarker noteRef="2">2</noteMarker></para>
+				<para paraID="8">It all started with a simple invitation. When Milly (now 19) and her brothers were younger, they used to play with some Latter-day Saint children in their neighborhood. Those children invited Milly’s brothers, Henry and Jason, to play basketball at the meetinghouse and to attend church. When they were teens, Henry and Jason joined the Church and eventually went on missions. Milly started going to church with her brothers when she was 8, and when she was 14, her parents allowed her to be baptized.</para>
+				<para paraID="9">About a month after her baptism, Milly met Jonathan at school.</para>
+				<para paraID="10">“The first day that I met her, I asked her what she was doing and she said she was going to the temple,” says Jonathan. Right from the start he knew she was a different kind of girl.</para>
+				<para paraID="11">Although throughout their friendship <pageBreak pageNum="36"/>Milly would talk to him about the Church, Jonathan wasn’t really interested. Finally, she decided to invite him to a youth dance.</para>
+				<para paraID="12">“I just loved the whole spirit of things there,” he says. “They were good people having fun in a good way.” He enjoyed it so much, he told her he was going to come to church with her the next day. And he just kept coming.</para>
+				<para paraID="13">“It’s really incredible,” says Milly, “just the change that happened, even in his outward appearance. He cared more about what he did outside of school. It was just a turnaround.”</para>
+				<para paraID="14">When he came to church, things began to look and sound familiar to Jonathan. “Little things started sticking out to me the second week, especially the sacrament,” he says. “I was thinking, ‘Wow! This all looks really familiar.’”</para>
+				<para paraID="15">The bishop looked him up in the Church’s records, and it turned out that Jonathan was already a member! Jonathan, his mother, and his brother had all been baptized <pageBreak pageNum="37"/>when he was 11.</para>
+				<para paraID="16">“I just did because my mother did, and the same goes for my brother.” Jonathan’s family stopped attending church a month after their baptism. “It really didn’t mean much to me because I didn’t know much about the Church,” he says.</para>
+				<para paraID="17">But when Milly invited him back, the Church began to mean a lot to him. “Coming back, I never felt out of place,” he says. He was welcomed warmly and ordained to the priesthood when he was 14. Before he went on his mission to Rio de Janeiro, Jonathan was a member of his ward’s Young Men presidency.</para>
+				<para paraID="18">And how has living the gospel changed his life?</para>
+				<para paraID="19">“How hasn’t it? It was a complete 180. There was so much potential in me that I never would have realized.”</para>
+			</topic>
+			<topic>
+				<title paraID="20">A Responsibility</title>
+				<para paraID="21"><emphasis>“Every convert who comes into this Church should have an immediate responsibility. It may be ever so small, but it will spell the difference in his life.”—President Gordon B. Hinckley</emphasis><noteMarker noteRef="3">3</noteMarker></para>
+				<para paraID="22">Milly’s invitation to Jonathan was followed by many more invitations from Jonathan to others—other members of the Young Men who were not attending church. He and the other active young men in the ward called their invitations “Operation Mormonation.”</para>
+				<para paraID="23">Not only did they get on the phone at the start of Young Men class to invite everyone on the roll who wasn’t there to come to church, but they also assigned those young men responsibilities. Those responsibilities helped the young men feel welcome and useful.</para>
+				<para paraID="24">Quorum presidencies worked with the bishop to remind people of activities, and each young man was given the opportunity to help teach lessons, organize activities, set up for Mutual, and teach with the full-time missionaries. They also had to call and report on the status of their assignments.</para>
+				<para paraID="25">“It was basically just learning how to serve each other and to delegate. The <pageBreak pageNum="38"/>Church is really run through quorums. Everyone has an important role in each quorum, not just the presidents,” Jonathan says.</para>
+				<para paraID="26">Serving in their quorum made the young men of the Boston First Ward more dedicated to the gospel. “I know that loving each other and teaching each other and serving each other in the Church will bring us closer to the Savior,” Jonathan says.</para>
+			</topic>
+			<topic>
+				<title paraID="27">The Good Word of God</title>
+				<para paraID="28"><emphasis>“And after they had been received unto baptism, and were wrought upon and cleansed by the power of the Holy Ghost, they were numbered among the people of the church of Christ; and their names were taken, that they might be remembered and nourished by the good word of God.”—<scriptureRef book="moro" chapter="6" verse="4">Moroni 6:4</scriptureRef>.</emphasis></para>
+				<para paraID="29">Bernard Lewis, 16, received a few invitations from the Boston First Ward. The first was from the Young Men president, Rob Smith. Brother Smith, Bernard’s neighbor, saw him outside playing basketball one day and invited him and his brother to come play at the church—after they helped clean the chapel.</para>
+				<para paraID="30">Bernard was happy to come, and when he got there the other young men immediately welcomed him. “They were like family to me. I really liked it there,” he says.</para>
+				<para paraID="31">Brother Smith invited him to church, and as Bernard started to attend church, youth conference, and other activities, he decided to stay because it all made him feel so good. He says that during this time Jonathan was a good example to him. “I look up to him,” he says. “He’s like my big brother.”</para>
+				<para paraID="32">Jonathan agrees. “We became really close. I call him my little brother now.”</para>
+				<para paraID="33">And when Bernard’s mother allowed him to join the Church, Jonathan was able to baptize him.</para>
+				<para paraID="34">Besides the invitation to come to church and be baptized, the young men in the ward also invited Bernard to read his scriptures. His testimony of the scriptures led him to join the Church, <pageBreak pageNum="39"/>and he continues to study them regularly.</para>
+				<para paraID="35">“The scriptures lead you to the right place,” Bernard testifies. “You need to read the scriptures to know what you believe in and ask the Lord if they are true. The scriptures are important. They are the word of the Lord.”</para>
+			</topic>
+			<topic>
+				<title paraID="36">You Are Needed</title>
+				<para paraID="37"><emphasis>“I ask each of you to please help in this undertaking. Your friendly ways are needed. Your sense of responsibility is needed.”—President Gordon B. Hinckley</emphasis><noteMarker noteRef="4">4</noteMarker></para>
+				<para paraID="38">It all started with a simple invitation. Henry and Jason, Milly’s brothers, were invited, so they invited Milly. Milly was invited, so she invited Jonathan. Jonathan was invited, so he invited Bernard and many other young men to the gospel. And now that Jonathan is going on a mission, he will continue to invite people to Christ.</para>
+				<para paraID="39">“It’s a pattern, and it’s pretty incredible if you think about it,” says Milly. She says if you have a friend you want to invite to church, “Just do it. The worst thing that could happen is they’ll say no. If you really care about someone, then you should invite them because you could change their life.”</para>
+				<para paraID="40">Jonathan says, “There’s a chain of people we affect with our actions. Not just one person.”</para>
+				<para paraID="41">So, go ahead. Invite someone. And start a chain reaction.</para>
+				<para paraID="42">Learn how to be a member missionary by studying <emphasis>Preach My Gospel.</emphasis></para>
+			</topic>
+			<topic>
+				<title paraID="43">[Converts]</title>
+				<figure figType="image">
+					<image altText="President Gordon B. Hinckley" webURL="HinckleyGB_95-99.ob.jpg"/>
+				</figure>
+				<para paraID="44"><pageBreak pageNum="36"/>“Every convert needs a friend in the Church, someone who will be close to him, someone who will answer his questions, someone who will look after him and keep him coming. He needs a responsibility. He needs something to do. He won’t grow without responsibility. He must have a responsibility. We must take care of those who come into the Church as converts. They need constant nurturing in the gospel.”<br/><strong>President Gordon B. Hinckley, “Inspirational Thoughts,” <emphasis>Ensign,</emphasis> Oct. 2003, 3.</strong></para>
+			</topic>
+		</bodyBlock>
+		<notes listFormat="number">
+			<title paraID="45">Notes</title>
+			<listItem noteID="1">
+				<label>1.</label>
+				<para paraID="46">“Converts and Young Men,” <emphasis>Ensign,</emphasis> May 1997, 47.</para>
+			</listItem>
+			<listItem noteID="2">
+				<label>2.</label>
+				<para paraID="47">“Some Thoughts on Temples, Retention of Converts, and Missionary Service,” <emphasis>Ensign,</emphasis> Nov. 1997, 51.</para>
+			</listItem>
+			<listItem noteID="3">
+				<label>3.</label>
+				<para paraID="48">“Inspirational Thoughts,” <emphasis>Ensign,</emphasis> July 1998, 4.</para>
+			</listItem>
+			<listItem noteID="4">
+				<label>4.</label>
+				<para paraID="49">“Converts and Young Men,” 48.</para>
+			</listItem>
+		</notes>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="50"><pageBreak pageNum="34, 35, 36, 37, 38–39"/>Photographs by Shanna Butler</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="51"><pageBreak pageNum="34"/>Milly Astwood (above) was a friend to Jonathan Ubri (below), who was a friend to Bernard Lewis (below right) and many others. Now Jonathan is on a full-time mission, and a chain reaction that started with a simple invitation will keep growing.</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="52"><pageBreak pageNum="36–37"/>Whether they’re on Boston Common (opposite page) or at church, these friends work together to help others and bring them closer to the gospel.</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="53"><pageBreak pageNum="38"/>The first time Bernard came to church he helped clean the building so that he could play basketball afterwards. His first visit was followed by many others because the young men in the ward welcomed him and helped him to gain a testimony.</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="54"><pageBreak pageNum="39"/>These Boston youth know that you can start a chain reaction in your city too. So invite a friend to come to church and to come unto Christ. You never know how many people you will affect for good.</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_016">
+		<referenceHeader>
+			<publicationID title="make-your-life-a-legacy"/>
+			<workTitle>Make Your Life a Legacy</workTitle>
+			<authorName>Mervyn B. Arnold</authorName>
+			<pageNumber>40–43</pageNumber>
+			<subjectGroup>
+				<subject>family</subject>
+				<subject>honesty</subject>
+				<subject>missionary work</subject>
+				<subject>obedience</subject>
+			</subjectGroup>
+			<searchTerms>
+				<authorRole>Seventy</authorRole>
+			</searchTerms>
+			<editor>Transformed</editor>
+			<nextParaID>35</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Make Your Life a Legacy</title>
+			<byline>
+				<para paraID="2">By Elder Mervyn B. Arnold</para>
+				<para paraID="3">Of the Seventy</para>
+			</byline>
+			<kicker paraID="4">You can fill your life with valuable lessons for those who come after you.</kicker>
+		</titleBlock>
+		<bodyBlock>
+			<figure figType="image">
+				<image altText="Elder Mervyn B. Arnold" webURL="ArnoldMB_03.jpg"/>
+			</figure>
+			<para paraID="5"><pageBreak pageNum="40"/>Like Nephi, I was “born of goodly parents” (<scriptureRef book="1-ne" chapter="1" verse="1">1 Nephi 1:1</scriptureRef>), who set a righteous example for their children. Here are a few of the lessons they taught me.</para>
+			<topic>
+				<title paraID="6">The Value of a Mission</title>
+				<para paraID="7">I was the youngest of seven children, and every morning at 6 a.m. my father would bang on the door and say, “It’s time for prayer.” He would go into the kitchen and start cooking the oatmeal, and we would gather and get on our knees. Something we would often hear our parents say in our family prayers was, “Please bless the missionaries that they will be led to the honest in heart and that our children will have the desire to go on a mission.” When we were young and one of us was called on to say a prayer, we would almost always say the same thing, and it affected us.</para>
+				<para paraID="8">In this way, our parents impressed upon our minds the importance of a mission from the time we were young. Perhaps this was because they had both served missions. My father served in the Mexican Mission, and my mother served in Missouri at the height of the Depression.</para>
+				<para paraID="9">My mother’s mission taught her a great lesson on faith. Her bishop and stake president told her that it would be difficult for her to serve a mission because she had a speech impediment, which made it hard for her to be understood. But she felt impressed to go and had the overwhelming feeling that if she would be faithful, the Lord would correct her problem and she would be able to serve.</para>
+				<para paraID="10">At age 14 she had received a blessing regarding a mission. Some time later she went to the secluded upper rooms of the meetinghouse and poured her soul out to her Heavenly Father regarding her desire to serve a mission. She felt inspired to call her uncle, who was a mission president in Missouri, and ask him if she could be his secretary. (Back then they didn’t have all the formalities concerning mission calls that we do now.) He said yes, and she was set apart by a member of the Quorum of the Twelve, who promised her she would bring many people into the Church. She was surprised at this, knowing that she had <pageBreak pageNum="42"/>difficulty speaking.</para>
+				<para paraID="11">However, after she began to serve, one of the sister missionaries became very ill. The mission president asked my mother to work with this sister’s companion so that the sister could come to the mission home to recover and her companion could keep working. My mother took a train to the area where she would be working. When she stepped off the train, she was met by a couple of elders, one of whom remarked when he saw her, “Why have they sent Sister Bennion? She can’t even talk.” She turned to that missionary and said indignantly, “Yes, I <emphasis>can</emphasis> talk.” And in that moment her problem was gone, and it never returned.</para>
+				<para paraID="12">I was raised in a home where the parents prayed that their children would go on missions because they knew what a mission does. Without reservation, I can say that, apart from my marriage to my wonderful wife, nothing has done more for me than my mission—for education, learning to get along with all sorts of people, learning a foreign language. But much more than that, through my mission I came to know my Heavenly Father and my Savior. I know the Savior lives. I know that. I am so grateful for parents who taught me the value of a mission.</para>
+			</topic>
+			<topic>
+				<title paraID="13">The Value of Your Name</title>
+				<para paraID="14">I would like you to realize that whatever you do as a young person will set a precedent for the rest of your life.</para>
+				<para paraID="15">Before Helaman’s sons Nephi and Lehi went out on their missions, their father gave them this counsel:</para>
+				<para paraID="16">“Behold, my sons, I desire that ye should remember to keep the commandments of God; and would that ye should declare unto the people these words. Behold, I have given unto you the names of our first parents who came out of the land of Jerusalem; and this I have done that when you remember your names ye may remember them; and when ye remember them ye may remember their works; and when ye remember their works ye may know how that it is said, and also written, that they were good.</para>
+				<para paraID="17">“Therefore, my sons, I would that ye should do that which is good, that it may be said of you, and also written, even as it has been said and written of them” (<scriptureRef book="hel" chapter="5" verse="6-7">Helaman 5:6–7</scriptureRef>).</para>
+				<para paraID="18">When Helaman spoke these words, 500 years had passed away and they were still remembering Lehi and Nephi of old and what examples they were as the first prophets in the Book of Mormon; they were still naming their children after them because of their good example and their good works.</para>
+				<para paraID="19">Try to visualize your own future. You too can begin a legacy by the way you act. Someday you will have children just as Helaman did. In generations to come they can look back and say that you were good.</para>
+				<para paraID="20">My father’s name was John. I have a hard time counting how many of his grandchildren and great-grandchildren are named after him because he was such a good man. He was honorable and well-loved, so his posterity named their children after this good man whose name they will remember by hopefully continuing that legacy.</para>
+				<para paraID="21">I admonish you to make your name one that your family can be proud of and that will be remembered because of your good works for a long time. You should always keep your name clean and pure so that your grandchildren and great-grandchildren will remember you as an honorable person. They should be able to say that this wasn’t a person who took drugs or was involved in illicit sex or other sins, but one who remained faithful and worthy.</para>
+				<para paraID="22">Believe me, your name will be remembered. For example, your missionary <pageBreak pageNum="43"/>companions will speak of you whether you were a good missionary or not. It’s been many years since I served my mission, and I can still tell you the missionaries who gave everything, those who goofed off and broke mission rules, and those who did not give it their best. Many have expressed their regrets for not being the kind of missionary they could have been. Of course, nobody is perfect. However, as President Hinckley has asked, we should do the very best we can. Your name carries through from the time you are a young person up through your mission, through adulthood and beyond.</para>
+			</topic>
+			<topic>
+				<title paraID="23">The Value of Honesty</title>
+				<para paraID="24">I worked as a real estate developer, and it’s not easy to get farmers to sell you their land. But I can tell you of many instances when I went out to find land to purchase and people asked me, “Are you John Arnold’s son?”</para>
+				<para paraID="25">I would say, “Yes, I am.”</para>
+				<para paraID="26">And they would say, “He was an honest man. I’m sure you’ll be honest with us.” I bought several properties because of my father’s good name.</para>
+				<para paraID="27">My father never made much money, but my parents were honest and hard working, and they taught these values to their children. My father worked at a copper mine. He didn’t earn enough money to send his sons and daughters on missions or to college, so my parents bought 1,000 chickens for us to raise so that we could sell the eggs. They also contracted to deliver a large number of newspapers each evening to our neighbors.</para>
+				<para paraID="28">My father would have us go out to the chicken coops and shoot the rats out of the feed troughs because they would eat the chickens’ food. On many occasions I would go out with a flashlight and a small gun to shoot the rats that were in the hoppers eating the chickens’ food.</para>
+				<para paraID="29">I’ll never forget one night when I was out on that particular assignment. My father came home from a Church meeting and looked down at me and said, “Son, what flashlight do you have?” I looked down and realized it was the one my father took to work, and it had the name of the copper mine on the side. My father said, “Son, that flashlight is for me to use on the job. You should never take anything from your employer for personal use—not even a pencil, a flashlight, or anything else. Go back and get another flashlight.” I am so grateful for my father’s legacy of honesty.</para>
+				<para paraID="30">Most of the money from the eggs and delivering newspapers went into the bank to help pay for our education and our missions. Five of the children used the money to serve missions and all seven graduated from college. The lessons of value that my parents taught me on honesty, hard work, the Word of Wisdom, the law of chastity, and many other things continue to bless my life.</para>
+				<para paraID="31">What legacy will you and I leave behind to be passed on to those who will remain after we have passed away—especially our children, grandchildren, and great-grandchildren? I would hope it would be like that of Lehi and Nephi of old—a legacy of love, trust, and honor. We can and should set those who follow us for hundreds of years to come on a course that will lead them to happiness, joy, and eternal life.</para>
+				<para paraID="32">For more, read <crossRef fileIDref="96947_000_016" paraIDref="1">“Your Good Name,”</crossRef> <emphasis>New Era,</emphasis> July 1996, p. 46.</para>
+			</topic>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="33"><pageBreak pageNum="40–41, 42–43"/>Illustrated by Scott Snow</para>
+				</caption>
+			</figure>
+			<figure figType="image">
+				<caption>
+					<para paraID="34"><pageBreak pageNum="43"/><emphasis>Lehi and His People Arrive in the Promised Land,</emphasis> by Arnold Friberg</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_017">
+		<referenceHeader>
+			<publicationID title="instant-messages"/>
+			<workTitle>Instant Messages</workTitle>
+			<pageNumber>44–45</pageNumber>
+			<editor>Transformed</editor>
+			<nextParaID>3</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">Instant Messages</title>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="2"><pageBreak pageNum="45"/>Share your own experience with us at <urlRef urlPath="mailto:newera@ldschurch.org">newera@ldschurch.org</urlRef>.</para>
+		</bodyBlock>
+		<resources>
+			<subArticle fileID="test00093_000_018">
+				<referenceHeader>
+					<publicationID title="my-journey-to-faith"/>
+					<workTitle>My Journey to Faith</workTitle>
+					<authorName>David Dance</authorName>
+					<pageNumber>44–45</pageNumber>
+					<subjectGroup>
+						<subject>Church history</subject>
+						<subject>Joseph Smith</subject>
+					</subjectGroup>
+					<editor>Transformed</editor>
+					<nextParaID>9</nextParaID>
+					<versions>
+						<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+					</versions>
+				</referenceHeader>
+				<titleBlock>
+					<title paraID="1">My Journey to Faith</title>
+					<byline>
+						<para paraID="2">By David Dance</para>
+					</byline>
+				</titleBlock>
+				<bodyBlock>
+					<para paraID="3"><pageBreak pageNum="44"/>“What did you say?” I replied to my mother as she informed me of her plans to take the family to Nauvoo. I could already feel the Laman-and-Lemuel-like murmurings enter my heart. I even let a few of them slip. I complained about how I had to work and how unbelievably boring that town would be. But my wonderful mother persisted and tried to convince me that it would be “cool.”</para>
+					<para paraID="4">A few months passed and it came time for our trip. We were in Nauvoo for only three days, but for those days I was filled with the Spirit. I was blessed to visit many sites of historical significance. I was even able to perform baptisms for the dead in the beautiful Nauvoo temple with my father, grandfather, and a few friends who were also there. Although the trip was going better than expected, it was still to hold more meaning for me.</para>
+					<para paraID="5"><pageBreak pageNum="45"/>Only one week before we left for Nauvoo, I received my patriarchal blessing. In it I was told that my testimony of the Restoration and of Joseph Smith would be strengthened. I thought little of it at the time and simply figured it would just happen over time.</para>
+					<para paraID="6">On the final day we spent in Nauvoo, we went and visited Carthage Jail, where the Prophet Joseph and his brother Hyrum were killed. We walked the grounds and read many quotes from the Prophet, and I felt the Spirit very strongly. During our tour of the jail, I felt the Spirit even stronger. We ended up in the upstairs room where the mob broke in and killed Joseph and Hyrum in cold blood. As I sat there and learned of that great man and listened to the hymn “A Poor Wayfaring Man of Grief,” the words of my patriarchal blessing, which I had received only 10 days before, entered my mind. I have never felt like I received such a blessing as my trip to Nauvoo was. It was amazing that barely one week had passed since my blessing, and I could already see it being fulfilled.</para>
+					<para paraID="7">On my trip to Nauvoo I learned more about the Prophet Joseph Smith, the Restoration, and the early pioneers than I ever have at one time in my life. I already had a testimony of Joseph Smith and the Restoration before that trip, but afterwards I realized how small that testimony was. I knew before, but now I know with a greater surety that Joseph Smith was a prophet of God. He did restore the gospel to the earth. I also know that Heavenly Father loves each one of us and answers our prayers if we have faith in Him.</para>
+				</bodyBlock>
+				<resources>
+					<figure figType="image">
+						<caption>
+							<para paraID="8"><pageBreak pageNum="44"/>Illustration by Roger Motzkus</para>
+						</caption>
+					</figure>
+				</resources>
+			</subArticle>
+			<subArticle fileID="test00093_000_019">
+				<referenceHeader>
+					<publicationID title="in-royal-courts"/>
+					<workTitle>In Royal Courts</workTitle>
+					<authorName>Sara Mason</authorName>
+					<pageNumber>45</pageNumber>
+					<subjectGroup>
+						<subject>plan of salvation</subject>
+					</subjectGroup>
+					<editor>Transformed</editor>
+					<nextParaID>5</nextParaID>
+					<versions>
+						<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+					</versions>
+				</referenceHeader>
+				<titleBlock>
+					<title paraID="1">In Royal Courts</title>
+					<byline>
+						<para paraID="2">By Sara Mason</para>
+					</byline>
+				</titleBlock>
+				<bodyBlock>
+					<para paraID="3"><pageBreak pageNum="45"/>Within a year-and-a-half both my grandmothers died. At both funerals the hymn “O My Father” (<emphasis>Hymns,</emphasis> no. 292) was part of the program. The fourth verse reads: “When I leave this frail existence, / When I lay this mortal by, / Father, Mother, may I meet you / In your royal courts on high?”</para>
+					<para paraID="4">This comforted me because it told me that my grandmothers are in an exquisite place. I know that if I remain worthy, I will be able to see my grandmothers and my Heavenly Parents again.</para>
+				</bodyBlock>
+			</subArticle>
+			<subArticle fileID="test00093_000_020">
+				<referenceHeader>
+					<publicationID title="a-book-for-brandon"/>
+					<workTitle>A Book for Brandon</workTitle>
+					<authorName>Emilie Everett</authorName>
+					<pageNumber>45</pageNumber>
+					<subjectGroup>
+						<subject>Book of Mormon</subject>
+						<subject>missionary work</subject>
+					</subjectGroup>
+					<editor>Transformed</editor>
+					<nextParaID>6</nextParaID>
+					<versions>
+						<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+					</versions>
+				</referenceHeader>
+				<titleBlock>
+					<title paraID="1">A Book for Brandon</title>
+					<byline>
+						<para paraID="2">By Emilie Everett</para>
+					</byline>
+				</titleBlock>
+				<bodyBlock>
+					<para paraID="3"><pageBreak pageNum="45"/>One night at Mutual the missionaries gave us copies of the Book of Mormon to share. We had the option of giving it to a person we had in mind or giving it back to the missionaries to distribute. I had it set in my mind that I was going to give it to a friend in my math class. It was going to be great. As I went to school the next day excited about the start of my missionary work, I saw one of my friends, Brandon. He was going to class as well, but we stopped and spoke. Right then I had the strongest feeling that I had to give him the Book of Mormon. I thought about it as I kept going to class and came to the conclusion that the feeling was too strong to ignore and that I needed to place the book with him.</para>
+					<para paraID="4">The next day I asked him to meet me after school so that I could give him something really important. He agreed, and we went on. When the time came for me to go downstairs to give it to him, I thought that I couldn’t do it. It kept going through my mind that he would think I was strange. What if he said no? I finally heard a still small voice tell me that if I didn’t do this, then I wouldn’t have the experience I need for the future. So, I went down and I spoke with him. I told him that the book was another testament of Jesus Christ, and that it has many important truths in it. I also told him that when I read it, it fills me with a comfort that I know I will be OK in the end. He took it, and I was relieved. Later that week he came to church with my family and met the missionaries.</para>
+					<para paraID="5">I am extremely grateful for the Book of Mormon. I know that it is the true word of God. I also know that I was given the best opportunity to share the gospel because I listened and felt the Spirit.</para>
+				</bodyBlock>
+			</subArticle>
+		</resources>
+	</article>
+	<article fileID="test00093_000_021">
+		<referenceHeader>
+			<publicationID title="weve-got-mail"/>
+			<workTitle>We’ve Got Mail</workTitle>
+			<pageNumber>46</pageNumber>
+			<editor>Transformed</editor>
+			<nextParaID>20</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">We’ve Got Mail</title>
+		</titleBlock>
+		<bodyBlock>
+			<para paraID="2"><pageBreak pageNum="46"/>We love hearing from you. Write us at the following address. Please include the names of your ward and stake (or branch and district).</para>
+			<address paraID="3"><emphasis>New Era</emphasis></address>
+			<address paraID="4">We’ve Got Mail</address>
+			<address paraID="5">50 E. North Temple St.  Rm. 2420</address>
+			<address paraID="6">Salt Lake City, UT 84150-3220, USA</address>
+			<para paraID="7">Or e-mail us at <urlRef urlPath="mailto:newera@ldschurch.org">newera@ldschurch.org</urlRef></para>
+			<para paraID="8">Submissions may be edited for length and clarity.</para>
+			<topic>
+				<title paraID="9">Faith in His Plan</title>
+				<para paraID="10">I really liked the article “Faith in His Plan” (Oct. 2006), because through our many trials that may come our way, the Lord is always watching over and taking care of us. It is by His plan that we live up to the measure of our creation. No matter what happens in this life, we can rejoice and have happiness by having faith in His plan.<br/>Ashley T., Montana</para>
+			</topic>
+			<topic>
+				<title paraID="11">Just Kidding</title>
+				<para paraID="12">Thank you for the article “Is Anyone Laughing?” (Feb. 2007). I don’t think I ever fully realized how hurtful some jokes can be and how many times I follow up my own sentences with “just kidding.” I never thought about the consequences it might have on someone’s feelings and on my friendships. Now I recognize this problem, and I’m determined to change this and uplift those around me.<br/>Name withheld</para>
+			</topic>
+			<topic>
+				<title paraID="13">Optimistic and Hopeful</title>
+				<para paraID="14">I just finished reading “Reverencing the Temple” in the February 2007 issue of the <emphasis>New Era.</emphasis> I learned so much about the temple and its blessings. It was so cool to read about other teenagers who care about the temple and love the gospel just like I do and who live so far away. Whenever I start to feel bitter about the way the world is going, I look at the <emphasis>New Era,</emphasis> and it is always optimistic and hopeful. I love reading the articles by President Hinckley and the Apostles. Thank you for putting together the world’s best magazine!<br/>Amelia B., Utah</para>
+			</topic>
+			<topic>
+				<title paraID="15">Enlightening</title>
+				<para paraID="16">Whenever I’m having a hard day, I like to read the <emphasis>New Era.</emphasis> I always find that it helps me cheer up. February 2007’s issue came exactly on one of those days. I was sick and couldn’t go to school. That night I read the <emphasis>New Era</emphasis> and found the article “Don’t Face the World Alone.” It included a couple of scriptures that helped me regain happiness. The article itself said that if we can have faith in the Lord and obey Him, we can have good things happen to us and we can help other people. After that, I felt inspired to read the rest of the articles.<br/>Wryn W., Colorado</para>
+			</topic>
+			<topic>
+				<title paraID="17">Light of the Gospel</title>
+				<para paraID="18">I would like to express my feelings on your article “Good to Know” (Jan. 2007). I really liked this story because it made me see that at any time, in any place, we, as members of the Church, could be asked questions about our beliefs, and we have a responsibility to answer them the best we can. We never know when we could be faced with the opportunity to bring the light of the gospel to someone who needs it. It is our duty to be prepared. Thank you for sharing this story with me and with the rest of the world. Keep up the good work!<br/>Kortnee S., Utah</para>
+			</topic>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="19">Illustrated by Scott Greer</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+	<article fileID="test00093_000_022">
+		<referenceHeader>
+			<publicationID title="whats-in-it-for-you"/>
+			<workTitle>What’s in It for You</workTitle>
+			<pageNumber>47</pageNumber>
+			<editor>Transformed</editor>
+			<nextParaID>39</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">What’s in It for You</title>
+		</titleBlock>
+		<bodyBlock>
+			<topic>
+				<title paraID="2">Mutual Activity Ideas</title>
+				<list listFormat="bullet">
+					<listItem>
+						<label>•</label>
+						<para paraID="3"><pageBreak pageNum="47"/>Invite the bishop to come and explain what fast offerings are used for. You could watch the video <emphasis>In the Service of Your God</emphasis> about Humanitarian Services. Or read Bishop H. David Burton’s talk <crossRef fileIDref="24911_000_033" paraIDref="1">“More Holiness Give Me”</crossRef> from general conference (<emphasis>Ensign,</emphasis> Nov. 2004, 98).</para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="4">Make copies of the <emphasis>New Era</emphasis> survey on page 48 of this issue. Make sure each person has a copy. Fill them out. Ask a leader to mail them to the <emphasis>New Era.</emphasis></para>
+					</listItem>
+					<listItem>
+						<label>•</label>
+						<para paraID="5">Have a recently returned missionary bring a suitcase full of things he took and used on his mission. Have him explain each item, especially the unusual ones.</para>
+					</listItem>
+				</list>
+			</topic>
+			<topic>
+				<title paraID="6">Personal Progress or Duty to God</title>
+				<list listFormat="bullet">
+					<listItem>
+						<label>•</label>
+						<para paraID="7">Create your own Church library of pictures, poems, and stories. Use the Church magazines and manuals. Photocopy or cut out <emphasis>New Era</emphasis> posters, illustrations, poems, and stories that are meaningful to you and could be used in family home evening lessons or in class lessons. You could also group items that deal with similar themes such as the Young Women values.</para>
+					</listItem>
+				</list>
+			</topic>
+			<topic>
+				<title paraID="8">Family Home Evening Idea</title>
+				<list listFormat="bullet">
+					<listItem>
+						<label>•</label>
+						<para paraID="9">If you have younger brothers and sisters, use “recess” as a theme for a family home evening activity. Ask your parents to teach you some of the games they played as children. Teach them some of the games your siblings are playing now. Talk about staying physically fit and getting enough exercise.</para>
+					</listItem>
+				</list>
+			</topic>
+			<topic>
+				<title paraID="10">Sunday Lesson Helps</title>
+				<para paraID="11">In addition to the Resource Guides (printed in the May and November <emphasis>Ensign</emphasis>), Young Women and Aaronic Priesthood teachers may find these additional resources helpful in enhancing lessons 23–26.</para>
+				<topic>
+					<title paraID="12">Young Women Manual 2</title>
+					<topic>
+						<title paraID="13">Lesson 23: Fasting Brings Blessings</title>
+						<para paraID="14">Esther Hansen, <crossRef fileIDref="22945_000_004" paraIDref="1">“The Real Fast,”</crossRef> <emphasis>New Era,</emphasis> May 2002, 11.</para>
+						<para paraID="15">Larry A. Hiller, <crossRef fileIDref="03484_000_014" paraIDref="1">“Fasting Is What?”</crossRef> <emphasis>New Era,</emphasis> Oct. 1989, 38.</para>
+					</topic>
+					<topic>
+						<title paraID="16">Lesson 24: Revelation in Our Daily Lives</title>
+						<para paraID="17">Harold B. Lee, <crossRef fileIDref="26943_000_008" paraIDref="1">“Your Right to Revelation,”</crossRef> <emphasis>New Era,</emphasis> Mar. 2006, 18.</para>
+						<para paraID="18">Gerald N. Lund, <crossRef fileIDref="24947_000_019" paraIDref="1">“Is It Revelation?”</crossRef> <emphasis>New Era,</emphasis> July 2004, 44.</para>
+					</topic>
+					<topic>
+						<title paraID="19">Lesson 25: The Law of Sacrifice</title>
+						<para paraID="20">Alexandre Machado Vasconcelos, <crossRef fileIDref="test00093_000_008" paraIDref="1">“Soccer or Mission?”</crossRef> this issue, 18.</para>
+						<para paraID="21">S. Michael Wilcox, <crossRef fileIDref="98901_000_008" paraIDref="1">“The Abrahamic Covenant,”</crossRef> <emphasis>Ensign, </emphasis>Jan. 1998, 42.</para>
+					</topic>
+					<topic>
+						<title paraID="22">Lesson 26: The Sacrament</title>
+						<para paraID="23">D. Todd Christofferson, <crossRef fileIDref="26946_000_011" paraIDref="1">“A Sense of the Sacred,”</crossRef> <emphasis>New Era, </emphasis>June 2006, 28.</para>
+						<para paraID="24">L. Tom Perry, <crossRef fileIDref="26905_000_016" paraIDref="1">“As Now We Take the Sacrament,”</crossRef> <emphasis>Ensign, </emphasis>May 2006, 39.</para>
+					</topic>
+				</topic>
+				<topic>
+					<title paraID="25">Aaronic Priesthood Manual 2</title>
+					<topic>
+						<title paraID="26">Lesson 23: Practical Preparation for a Mission</title>
+						<para paraID="27">The <emphasis>New Era </emphasis><crossRef fileIDref="00643_000_000" paraIDref="1">March 2007</crossRef> special issue on mission preparation.</para>
+						<para paraID="28">The <emphasis>New Era </emphasis><crossRef fileIDref="20946_000_000" paraIDref="1">June 2000</crossRef> special issue on serving a mission.</para>
+					</topic>
+					<topic>
+						<title paraID="29">Lesson 24: The Blessings of Work</title>
+						<para paraID="30">Sherrie Mackelprang, <crossRef fileIDref="test00093_000_013" paraIDref="1">“What I Learned from Doing the Dishes,”</crossRef> this issue, 30.</para>
+						<para paraID="31">Stephen B. Oveson, <crossRef fileIDref="27941_000_017" paraIDref="1">“Good Work,”</crossRef> <emphasis>New Era,</emphasis> Jan. 2007, 36.</para>
+					</topic>
+					<topic>
+						<title paraID="32">Lesson 25: Personal Purity through Self-Discipline</title>
+						<para paraID="33">M. Russell Ballard, <crossRef fileIDref="24943_000_002" paraIDref="1">“Go for It!” </crossRef><emphasis>New Era,</emphasis> Mar. 2004, 4.</para>
+						<para paraID="34">Jeffrey R. Holland, <crossRef fileIDref="20942_000_002" paraIDref="1">“Personal Purity,”</crossRef> <emphasis>New Era,</emphasis> Feb. 2000, 4.</para>
+					</topic>
+					<topic>
+						<title paraID="35">Lesson 26: Worthy Thoughts</title>
+						<para paraID="36"><crossRef fileIDref="25951_000_016" paraIDref="1">To the Point</crossRef> (getting rid of inappropriate thoughts), <emphasis>New Era, </emphasis>Nov. 2005, 37.</para>
+						<para paraID="37"><crossRef fileIDref="95951_000_007" paraIDref="1">Q&amp;A</crossRef> (dirty jokes stick with me), <emphasis>New Era,</emphasis> Nov. 1995, 16.</para>
+						<para paraID="38">Kenneth McKinney, <crossRef fileIDref="24951_000_006" paraIDref="1">“Rolling without Rock,”</crossRef> <emphasis>New Era, </emphasis>Nov. 2004, 14.</para>
+					</topic>
+				</topic>
+			</topic>
+		</bodyBlock>
+	</article>
+	<article fileID="test00093_000_023">
+		<referenceHeader>
+			<publicationID title="new-era-survey"/>
+			<workTitle><emphasis>New Era</emphasis> Survey</workTitle>
+			<pageNumber>48</pageNumber>
+			<editor>Transformed</editor>
+			<nextParaID>2</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1"><emphasis>New Era</emphasis> Survey</title>
+		</titleBlock>
+		<bodyBlock>
+			<figure figType="image">
+				<image altText="Survey" targetURL="ne07jun48_survey.jpg" webURL="ne07jun48_survey.jpg"/>
+			</figure>
+		</bodyBlock>
+	</article>
+	<article fileID="test00093_000_024">
+		<referenceHeader>
+			<publicationID title="the-perfect-day"/>
+			<workTitle>The Perfect Day</workTitle>
+			<authorName>Lara Deppe</authorName>
+			<pageNumber>49</pageNumber>
+			<editor>Transformed</editor>
+			<nextParaID>10</nextParaID>
+			<versions>
+				<version stage="source" org="publishing-services" timeStamp="2013-01-19T02:04:10.724-07:00">1</version>
+			</versions>
+		</referenceHeader>
+		<titleBlock>
+			<title paraID="1">The Perfect Day</title>
+			<byline>
+				<para paraID="2">By Lara Deppe</para>
+			</byline>
+		</titleBlock>
+		<bodyBlock>
+			<poetry>
+				<stanza>
+					<line paraID="3"><pageBreak pageNum="49"/>The trees whisper of tickling leaves.</line>
+					<line paraID="4">The sun gives a purplish glance homeward.</line>
+					<line paraID="5">The wind tickles the rolling grass.</line>
+					<line paraID="6">The tide washes the sand drifting to shore.</line>
+					<line paraID="7">The rose embraces its petals.</line>
+					<line paraID="8">The Shepherd gathers His wandering fold.</line>
+				</stanza>
+			</poetry>
+		</bodyBlock>
+		<resources>
+			<figure figType="image">
+				<caption>
+					<para paraID="9">Photo by Samantha Simon; do not copy</para>
+				</caption>
+			</figure>
+		</resources>
+	</article>
+</magazine>

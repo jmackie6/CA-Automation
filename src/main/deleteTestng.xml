@@ -1,0 +1,13 @@
+<suite name="Delete Suite" verbose="1" >
+  <test name="Delete Test" >
+    <classes>
+    	<class name="org.lds.cm.content.automation.tests.DeletePublished">
+       		<methods>
+       			<include name="deleteFilesInURIMapping"/>
+       			<include name="deleteFilesInMarkLogic"/>
+        		<include name="deleteDocMapinAnnotationServer"/>
+       		</methods>
+       	</class> 	
+    </classes>
+  </test>
+</suite>

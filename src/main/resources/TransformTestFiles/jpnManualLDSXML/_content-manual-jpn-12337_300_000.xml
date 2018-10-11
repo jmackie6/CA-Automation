@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://lds.org/schema/ldsxml/v4/book/ldsBook.rng" type="xml"?>
+<book fileID="test30098_300_000" confidentiality="public">
+	<referenceHeader>
+		<publicationID type="AutomationTransformManualLdsxml" title="what-to-expect-when-visiting-with-missionaries-of-the-church-of-jesus-christ-of-latter-day-saints"/>
+		<projectNumber>
+			<tracking>testPD00053624</tracking>
+			<sku>test30098</sku>
+		</projectNumber>
+		<publicationLanguage>300</publicationLanguage>
+		<workTitle><ruby><rb>末</rb><rt>まつ</rt></ruby><ruby><rb>日</rb><rt>じつ</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>徒</rb><rt>と</rt></ruby>イエス・キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby>の<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はな</rt></ruby>すときに<ruby><rb>期</rb><rt>き</rt></ruby><ruby><rb>待</rb><rt>たい</rt></ruby>できること</workTitle>
+		<shortTitle>期待できること</shortTitle>
+		<description>
+			<title>末日聖徒イエス・キリスト教会の宣教師と会って話すときに期待できること</title>
+			<para>キリスト教徒でない求道者のために作成された伝道パンフレット</para>
+		</description>
+		<publicationDate>2018</publicationDate>
+		<approvalDate>2017-02-04</approvalDate>
+		<editor>Doreen McKnight</editor>
+		<coverImage altText="cover art" mediaID="1444649"/>
+		<nextParaID>6</nextParaID>
+		<versions>
+			<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+		</versions>
+	</referenceHeader>
+	<cover>
+		<frontCover>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>期</rb><rt>き</rt></ruby><ruby><rb>待</rb><rt>たい</rt></ruby>できること</title>
+				<subtitle paraID="2"><ruby><rb>末</rb><rt>まつ</rt></ruby><ruby><rb>日</rb><rt>じつ</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>徒</rb><rt>と</rt></ruby>イエス・キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby>の<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はな</rt></ruby>すときに</subtitle>
+			</titleBlock>
+			<bodyBlock>
+				<image altText="" mediaID="1434301"/>
+			</bodyBlock>
+		</frontCover>
+		<backCover>
+			<bodyBlock>
+				<para paraID="3"><urlRef urlPath="http://www.mormon.org"><language langCode="000" emphasize="no">www.mormon.org/jpn</language></urlRef></para>
+				<copyrightInfo>
+					<para paraID="4"><language langCode="000" emphasize="no">© 2015 Intellectual Reserve, Inc. All rights reserved.</language></para>
+					<para paraID="5">英語版承認：2015年2月，翻訳承認：2015年2月。原題：<language langCode="000" emphasize="yes">What to Expect </language><language langCode="000" emphasize="no">Japanese 30098 300</language></para>
+				</copyrightInfo>
+			</bodyBlock>
+		</backCover>
+	</cover>
+	<bodyMatter>
+		<chapter fileID="test30098_300_01">
+			<referenceHeader>
+				<publicationID title="introduction"/>
+				<workTitle>はじめに</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>3</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1">はじめに</title>
+			</titleBlock>
+			<bodyBlock>
+				<para paraID="2"><crossRef fileIDref="30098_300_terms" paraIDref="14"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby></crossRef>があなたと<ruby><rb>交</rb><rt>こう</rt></ruby><ruby><rb>代</rb><rt>たい</rt></ruby>で<ruby><rb>読</rb><rt>よ</rt></ruby>んでもよろしいですか。ときどき<ruby><rb>中</rb><rt>ちゅう</rt></ruby><ruby><rb>断</rb><rt>だん</rt></ruby>して<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>います。<ruby><rb>分</rb><rt>わ</rt></ruby>からない<ruby><rb>言</rb><rt>こと</rt></ruby><ruby><rb>葉</rb><rt>ば</rt></ruby>があったら，どうぞいつでもお<ruby><rb>尋</rb><rt>たず</rt></ruby>ねください。</para>
+				<image altText="〔姉妹宣教師の画像〕" mediaID="1433613"/>
+			</bodyBlock>
+		</chapter>
+		<chapter fileID="test30098_300_02">
+			<referenceHeader>
+				<publicationID title="what-can-you-expect-when-meeting-with-the-missionaries"/>
+				<workTitle><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はな</rt></ruby>すときに，どんなことが<ruby><rb>期</rb><rt>き</rt></ruby><ruby><rb>待</rb><rt>たい</rt></ruby>できるでしょうか</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>5</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はな</rt></ruby>すときに，どんなことが<ruby><rb>期</rb><rt>き</rt></ruby><ruby><rb>待</rb><rt>たい</rt></ruby>できるでしょうか</title>
+			</titleBlock>
+			<bodyBlock>
+				<para paraID="2"><ruby><rb>人</rb><rt>ひと</rt></ruby><ruby><rb>々</rb><rt>びと</rt></ruby>は<ruby><rb>様</rb><rt>さま</rt></ruby><ruby><rb>々</rb><rt>ざま</rt></ruby>な<ruby><rb>理</rb><rt>り</rt></ruby><ruby><rb>由</rb><rt>ゆう</rt></ruby>で，<ruby><rb>末</rb><rt>まつ</rt></ruby><ruby><rb>日</rb><rt>じつ</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>徒</rb><rt>と</rt></ruby>イエス・キリスト<crossRef fileIDref="30098_300_terms" paraIDref="4"><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby></crossRef>の<crossRef fileIDref="30098_300_terms" paraIDref="14"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby></crossRef>の<ruby><rb>訪</rb><rt>ほう</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れます。<ruby><rb>例</rb><rt>たと</rt></ruby>えば，<ruby><rb>好</rb><rt>こう</rt></ruby><ruby><rb>奇</rb><rt>き</rt></ruby><ruby><rb>心</rb><rt>しん</rt></ruby>，<ruby><rb>礼</rb><rt>れい</rt></ruby><ruby><rb>儀</rb><rt>ぎ</rt></ruby><ruby><rb>正</rb><rt>ただ</rt></ruby>しさ，<ruby><rb>宗</rb><rt>しゅう</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>する<ruby><rb>関</rb><rt>かん</rt></ruby><ruby><rb>心</rb><rt>しん</rt></ruby>，もっと<ruby><rb>神</rb><rt>かみ</rt></ruby>に<ruby><rb>近</rb><rt>ちか</rt></ruby>づきたいという<ruby><rb>望</rb><rt>のぞ</rt></ruby>みなどからです。</para>
+				<para paraID="3">この<ruby><rb>訪</rb><rt>ほう</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby>の<ruby><rb>目</rb><rt>もく</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>は，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>とはどのような<ruby><rb>人</rb><rt>ひと</rt></ruby>で，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>がお<ruby><rb>会</rb><rt>あ</rt></ruby>いした<ruby><rb>理</rb><rt>り</rt></ruby><ruby><rb>由</rb><rt>ゆう</rt></ruby>を<ruby><rb>説</rb><rt>せつ</rt></ruby><ruby><rb>明</rb><rt>めい</rt></ruby>し，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>のできる<ruby><rb>助</rb><rt>たす</rt></ruby>けをお<ruby><rb>分</rb><rt>わ</rt></ruby>かりいただくことです。その<ruby><rb>後</rb><rt>のち</rt></ruby>，あなたは，このような<ruby><rb>訪</rb><rt>ほう</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けたいかどうか<ruby><rb>決</rb><rt>き</rt></ruby>めることができます。</para>
+				<list listFormat="noMarker">
+					<listItem>
+						<para paraID="4"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はな</rt></ruby>すことについて，どのような<ruby><rb>期</rb><rt>き</rt></ruby><ruby><rb>待</rb><rt>たい</rt></ruby>をお<ruby><rb>持</rb><rt>も</rt></ruby>ちですか。</para>
+					</listItem>
+				</list>
+				<image altText="〔姉妹宣教師の画像〕" mediaID="1434275"/>
+			</bodyBlock>
+		</chapter>
+		<chapter fileID="test30098_300_03">
+			<referenceHeader>
+				<publicationID title="who-are-the-missionaries"/>
+				<workTitle><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>とはどのような<ruby><rb>人</rb><rt>ひと</rt></ruby>でしょうか</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>7</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>とはどのような<ruby><rb>人</rb><rt>ひと</rt></ruby>でしょうか</title>
+			</titleBlock>
+			<bodyBlock>
+				<para paraID="2"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は<ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>般</rb><rt>ぱん</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>には，<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>意</rb><rt>い</rt></ruby><ruby><rb>志</rb><rt>し</rt></ruby>で<ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>長</rb><rt>ちょう</rt></ruby>24か<ruby><rb>月</rb><rt>げつ</rt></ruby>まで<ruby><rb>奉</rb><rt>ほう</rt></ruby><ruby><rb>仕</rb><rt>し</rt></ruby>することを<ruby><rb>選</rb><rt>えら</rt></ruby>んだ<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>男</rb><rt>だん</rt></ruby><ruby><rb>性</rb><rt>せい</rt></ruby>と<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>女</rb><rt>じょ</rt></ruby><ruby><rb>性</rb><rt>せい</rt></ruby>です。<ruby><rb>報</rb><rt>ほう</rt></ruby><ruby><rb>酬</rb><rt>しゅう</rt></ruby>は<ruby><rb>受</rb><rt>う</rt></ruby>けません。<ruby><rb>実</rb><rt>じっ</rt></ruby><ruby><rb>際</rb><rt>さい</rt></ruby>に，ほとんどの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>費</rb><rt>ひ</rt></ruby>で<ruby><rb>奉</rb><rt>ほう</rt></ruby><ruby><rb>仕</rb><rt>し</rt></ruby>しています。</para>
+				<para paraID="3"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>が<ruby><rb>奉</rb><rt>ほう</rt></ruby><ruby><rb>仕</rb><rt>し</rt></ruby>するのは，<crossRef fileIDref="30098_300_terms" paraIDref="6"><ruby><rb>神</rb><rt>かみ</rt></ruby></crossRef>に<ruby><rb>対</rb><rt>たい</rt></ruby>する<ruby><rb>愛</rb><rt>あい</rt></ruby>と，<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>人</rb><rt>ひと</rt></ruby><ruby><rb>々</rb><rt>びと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたいという<ruby><rb>望</rb><rt>のぞ</rt></ruby>みがあるからです。</para>
+				<para paraID="4"><ruby><rb>時</rb><rt>じ</rt></ruby><ruby><rb>間</rb><rt>かん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って，<ruby><rb>関</rb><rt>かん</rt></ruby><ruby><rb>心</rb><rt>しん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby><ruby><rb>々</rb><rt>びと</rt></ruby>に，<crossRef fileIDref="30098_300_terms" paraIDref="12">イエス・キリスト</crossRef>について，またイエス・キリストに<ruby><rb>従</rb><rt>したが</rt></ruby>うことによってもたらされる<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せと<ruby><rb>喜</rb><rt>よろこ</rt></ruby>びについて<ruby><rb>教</rb><rt>おし</rt></ruby>えます。</para>
+				<para paraID="5"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>ることはありませんし，わずかなお<ruby><rb>金</rb><rt>かね</rt></ruby>も<ruby><rb>要</rb><rt>よう</rt></ruby><ruby><rb>求</rb><rt>きゅう</rt></ruby>することはありません。</para>
+				<list listFormat="noMarker">
+					<listItem>
+						<para paraID="6"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>について<ruby><rb>何</rb><rt>なに</rt></ruby>か<ruby><rb>知</rb><rt>し</rt></ruby>りたいことはありますか。</para>
+					</listItem>
+				</list>
+				<image altText="〔若い宣教師の長老たちと男性の画像〕" mediaID="1434277"/>
+			</bodyBlock>
+		</chapter>
+		<chapter fileID="test30098_300_04">
+			<referenceHeader>
+				<publicationID title="why-would-missionaries-want-to-visit-with-you"/>
+				<workTitle><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はなぜあなたと<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はなし</rt></ruby>をしたいのでしょうか</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>6</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はなぜあなたと<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はなし</rt></ruby>をしたいのでしょうか</title>
+			</titleBlock>
+			<bodyBlock>
+				<para paraID="2"><crossRef fileIDref="30098_300_terms" paraIDref="14"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby></crossRef>はあなたに，<ruby><rb>今</rb><rt>いま</rt></ruby>までの<ruby><rb>人</rb><rt>じん</rt></ruby><ruby><rb>生</rb><rt>せい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>得</rb><rt>え</rt></ruby>た<ruby><rb>知</rb><rt>ち</rt></ruby><ruby><rb>識</rb><rt>しき</rt></ruby>や<ruby><rb>満</rb><rt>まん</rt></ruby><ruby><rb>足</rb><rt>ぞく</rt></ruby><ruby><rb>以</rb><rt>い</rt></ruby><ruby><rb>上</rb><rt>じょう</rt></ruby>のものを<ruby><rb>感</rb><rt>かん</rt></ruby>じていただきたいと<ruby><rb>願</rb><rt>ねが</rt></ruby>っています。<ruby><rb>今</rb><rt>いま</rt></ruby>よりもさらに<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せになってほしいと<ruby><rb>願</rb><rt>ねが</rt></ruby>っています。</para>
+				<para paraID="3"><crossRef fileIDref="30098_300_terms" paraIDref="6"><ruby><rb>神</rb><rt>かみ</rt></ruby></crossRef>と<crossRef fileIDref="30098_300_terms" paraIDref="12">イエス・キリスト</crossRef>の<ruby><rb>存</rb><rt>そん</rt></ruby><ruby><rb>在</rb><rt>ざい</rt></ruby>や，その<ruby><rb>大</rb><rt>たい</rt></ruby><ruby><rb>切</rb><rt>せつ</rt></ruby>さについてもっと，<ruby><rb>学</rb><rt>まな</rt></ruby>んでいただけるように，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はあなたを<ruby><rb>助</rb><rt>たす</rt></ruby>けたいと<ruby><rb>思</rb><rt>おも</rt></ruby>っています。</para>
+				<para paraID="4">また，<ruby><rb>神</rb><rt>かみ</rt></ruby>が，<crossRef fileIDref="30098_300_terms" paraIDref="22"><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>典</rb><rt>てん</rt></ruby></crossRef>や<ruby><rb>現</rb><rt>げん</rt></ruby><ruby><rb>代</rb><rt>だい</rt></ruby>の<crossRef fileIDref="30098_300_terms" paraIDref="20"><ruby><rb>預</rb><rt>よ</rt></ruby><ruby><rb>言</rb><rt>げん</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby></crossRef>，<ruby><rb>個</rb><rt>こ</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>の<ruby><rb>啓</rb><rt>けい</rt></ruby><ruby><rb>示</rb><rt>じ</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>してあなたにどのように<ruby><rb>語</rb><rt>かた</rt></ruby>りかけておられるか，<ruby><rb>伝</rb><rt>つた</rt></ruby>えたいと<ruby><rb>思</rb><rt>おも</rt></ruby>っています。</para>
+				<list listFormat="noMarker">
+					<listItem>
+						<para paraID="5"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はあなたをどのように<ruby><rb>助</rb><rt>たす</rt></ruby>けることができるでしょうか。</para>
+					</listItem>
+				</list>
+				<image altText="〔教えを伝えている長老宣教師の画像〕" mediaID="1434324"/>
+			</bodyBlock>
+		</chapter>
+		<chapter fileID="test30098_300_05">
+			<referenceHeader>
+				<publicationID title="what-do-missionaries-believe-about-you"/>
+				<workTitle><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はあなたについて，どのようなことを<ruby><rb>信</rb><rt>しん</rt></ruby>じているでしょうか</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>8</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はあなたについて，どのようなことを<ruby><rb>信</rb><rt>しん</rt></ruby>じているでしょうか</title>
+			</titleBlock>
+			<bodyBlock>
+				<para paraID="2">あなたは<crossRef fileIDref="30098_300_terms" paraIDref="6"><ruby><rb>神</rb><rt>かみ</rt></ruby></crossRef>の<ruby><rb>息</rb><rt>むす</rt></ruby><ruby><rb>子</rb><rt>こ</rt></ruby>または<ruby><rb>娘</rb><rt>むすめ</rt></ruby>です。</para>
+				<para paraID="3">あなたは<ruby><rb>永</rb><rt>えい</rt></ruby><ruby><rb>遠</rb><rt>えん</rt></ruby>に<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>家</rb><rt>か</rt></ruby><ruby><rb>族</rb><rt>ぞく</rt></ruby>とともにいることができます。</para>
+				<para paraID="4"><crossRef fileIDref="30098_300_terms" paraIDref="12">イエス・キリスト</crossRef>はあなたを<ruby><rb>助</rb><rt>たす</rt></ruby>けて，<ruby><rb>問</rb><rt>もん</rt></ruby><ruby><rb>題</rb><rt>だい</rt></ruby>や<ruby><rb>心</rb><rt>しん</rt></ruby><ruby><rb>配</rb><rt>ぱい</rt></ruby><ruby><rb>事</rb><rt>ごと</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby><ruby><rb>処</rb><rt>しょ</rt></ruby>できるようにしてくださいます。また，どのようなことでも，<ruby><rb>人</rb><rt>じん</rt></ruby><ruby><rb>生</rb><rt>せい</rt></ruby>における<ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>生</rb><rt>い</rt></ruby>かすことができるよう<ruby><rb>助</rb><rt>たす</rt></ruby>けてくださいます。</para>
+				<para paraID="5">あなたが<crossRef fileIDref="30098_300_terms" paraIDref="14"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby></crossRef>に<ruby><rb>会</rb><rt>あ</rt></ruby>い<ruby><rb>続</rb><rt>つづ</rt></ruby>ければ，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はあなたが<ruby><rb>学</rb><rt>まな</rt></ruby>んでいることを，<ruby><rb>例</rb><rt>たと</rt></ruby>えば<crossRef fileIDref="30098_300_terms" paraIDref="22"><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>典</rb><rt>てん</rt></ruby></crossRef>を<ruby><rb>読</rb><rt>よ</rt></ruby>むことや<crossRef fileIDref="30098_300_terms" paraIDref="18"><ruby><rb>祈</rb><rt>いの</rt></ruby>る</crossRef>こと，<crossRef fileIDref="30098_300_terms" paraIDref="4"><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby></crossRef>の<ruby><rb>集</rb><rt>しゅう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby>に<ruby><rb>出</rb><rt>しゅっ</rt></ruby><ruby><rb>席</rb><rt>せき</rt></ruby>することなどを，<ruby><rb>実</rb><rt>じっ</rt></ruby><ruby><rb>践</rb><rt>せん</rt></ruby>する<ruby><rb>意</rb><rt>い</rt></ruby><ruby><rb>思</rb><rt>し</rt></ruby>があると<ruby><rb>考</rb><rt>かんが</rt></ruby>えます。</para>
+				<para paraID="6"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はあなたの<ruby><rb>選</rb><rt>せん</rt></ruby><ruby><rb>択</rb><rt>たく</rt></ruby>と<ruby><rb>決</rb><rt>けっ</rt></ruby><ruby><rb>心</rb><rt>しん</rt></ruby>を<ruby><rb>尊</rb><rt>そん</rt></ruby><ruby><rb>重</rb><rt>ちょう</rt></ruby>します。</para>
+				<list listFormat="noMarker">
+					<listItem>
+						<para paraID="7">あなたは<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>に，<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>について<ruby><rb>何</rb><rt>なに</rt></ruby>を<ruby><rb>知</rb><rt>し</rt></ruby>ってもらいたいでしょうか（<ruby><rb>例</rb><rt>たと</rt></ruby>えば，あなたの<ruby><rb>人</rb><rt>じん</rt></ruby><ruby><rb>生</rb><rt>せい</rt></ruby>，あなたの<ruby><rb>家</rb><rt>か</rt></ruby><ruby><rb>族</rb><rt>ぞく</rt></ruby>，あなたの<ruby><rb>信</rb><rt>しん</rt></ruby><ruby><rb>念</rb><rt>ねん</rt></ruby>など）。</para>
+					</listItem>
+				</list>
+				<image altText="〔幼子を抱いている若い夫婦の画像〕" mediaID="1434280"/>
+			</bodyBlock>
+		</chapter>
+		<chapter fileID="test30098_300_06">
+			<referenceHeader>
+				<publicationID title="what-do-missionaries-believe-about-themselves"/>
+				<workTitle><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は<ruby><rb>彼</rb><rt>かれ</rt></ruby>ら<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>身</rb><rt>しん</rt></ruby>について<ruby><rb>何</rb><rt>なに</rt></ruby>を<ruby><rb>信</rb><rt>しん</rt></ruby>じているでしょうか</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>7</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は<ruby><rb>彼</rb><rt>かれ</rt></ruby>ら<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>身</rb><rt>しん</rt></ruby>について<ruby><rb>何</rb><rt>なに</rt></ruby>を<ruby><rb>信</rb><rt>しん</rt></ruby>じているでしょうか</title>
+			</titleBlock>
+			<bodyBlock>
+				<para paraID="2"><crossRef fileIDref="30098_300_terms" paraIDref="14"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby></crossRef>にも<ruby><rb>全</rb><rt>すべ</rt></ruby>ての<ruby><rb>人</rb><rt>ひと</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じように<ruby><rb>弱</rb><rt>よわ</rt></ruby>さがあり，また<ruby><rb>全</rb><rt>すべ</rt></ruby>ての<ruby><rb>人</rb><rt>ひと</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じように<ruby><rb>弱</rb><rt>よわ</rt></ruby>さを<ruby><rb>克</rb><rt>こく</rt></ruby><ruby><rb>服</rb><rt>ふく</rt></ruby>しようと<ruby><rb>努</rb><rt>つと</rt></ruby>めています。</para>
+				<para paraID="3"><ruby><rb>言</rb><rt>こと</rt></ruby><ruby><rb>葉</rb><rt>ば</rt></ruby>をじょうずに<ruby><rb>話</rb><rt>はな</rt></ruby>せないかもしれませんし，<ruby><rb>尋</rb><rt>たず</rt></ruby>ねられる<ruby><rb>質</rb><rt>しつ</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby>の<ruby><rb>全</rb><rt>すべ</rt></ruby>てには<ruby><rb>答</rb><rt>こた</rt></ruby>えられないかもしれませんが，いつも<ruby><rb>努</rb><rt>ど</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>しています。</para>
+				<para paraID="4"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は，<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>伝</rb><rt>つた</rt></ruby>えるメッセージが<ruby><rb>真</rb><rt>しん</rt></ruby><ruby><rb>実</rb><rt>じつ</rt></ruby>であると<ruby><rb>知</rb><rt>し</rt></ruby>っています。</para>
+				<para paraID="5"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は，あなたが<ruby><rb>学</rb><rt>まな</rt></ruby>ぶときに<ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>善</rb><rt>ぜん</rt></ruby>を<ruby><rb>尽</rb><rt>つ</rt></ruby>くしてあなたを<ruby><rb>助</rb><rt>たす</rt></ruby>けます。</para>
+				<para paraID="6"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は，あなたが<ruby><rb>決</rb><rt>き</rt></ruby>めることを，<ruby><rb>何</rb><rt>なに</rt></ruby>であっても<ruby><rb>尊</rb><rt>そん</rt></ruby><ruby><rb>重</rb><rt>ちょう</rt></ruby>します。</para>
+				<image altText="〔若い宣教師の長老たちと男性の画像〕" mediaID="1434271"/>
+			</bodyBlock>
+		</chapter>
+		<chapter fileID="test30098_300_07">
+			<referenceHeader>
+				<publicationID title="how-would-missionaries-help-me-learn"/>
+				<workTitle><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はわたしが<ruby><rb>学</rb><rt>まな</rt></ruby>ぶのをどのように<ruby><rb>助</rb><rt>たす</rt></ruby>けてくれるでしょうか</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>7</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はわたしが<ruby><rb>学</rb><rt>まな</rt></ruby>ぶのをどのように<ruby><rb>助</rb><rt>たす</rt></ruby>けてくれるでしょうか</title>
+			</titleBlock>
+			<bodyBlock>
+				<para paraID="2"><crossRef fileIDref="30098_300_terms" paraIDref="14"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby></crossRef>はあなたに<ruby><rb>会</rb><rt>あ</rt></ruby>って，<ruby><rb>話</rb><rt>はな</rt></ruby>したいと<ruby><rb>思</rb><rt>おも</rt></ruby>っています。<ruby><rb>普</rb><rt>ふ</rt></ruby><ruby><rb>通</rb><rt>つう</rt></ruby>は<ruby><rb>直</rb><rt>ちょく</rt></ruby><ruby><rb>接</rb><rt>せつ</rt></ruby><ruby><rb>会</rb><rt>あ</rt></ruby>いますが，ソーシャルメディアを<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>話</rb><rt>はな</rt></ruby>すこともできます。</para>
+				<para paraID="3"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>に<ruby><rb>会</rb><rt>あ</rt></ruby>っているときに，<ruby><rb>必</rb><rt>かなら</rt></ruby>ず<ruby><rb>質</rb><rt>しつ</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て<ruby><rb>来</rb><rt>く</rt></ruby>るでしょう。その<ruby><rb>場</rb><rt>ば</rt></ruby><ruby><rb>合</rb><rt>あい</rt></ruby>，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は<ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>善</rb><rt>ぜん</rt></ruby>を<ruby><rb>尽</rb><rt>つ</rt></ruby>くして<ruby><rb>質</rb><rt>しつ</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby>に<ruby><rb>答</rb><rt>こた</rt></ruby>えます。あなたが<ruby><rb>聞</rb><rt>き</rt></ruby>き，<ruby><rb>読</rb><rt>よ</rt></ruby>み，<ruby><rb>目</rb><rt>め</rt></ruby>にし，<ruby><rb>経</rb><rt>けい</rt></ruby><ruby><rb>験</rb><rt>けん</rt></ruby>する<ruby><rb>事</rb><rt>こと</rt></ruby><ruby><rb>柄</rb><rt>がら</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>して，どのように<ruby><rb>反</rb><rt>はん</rt></ruby><ruby><rb>応</rb><rt>のう</rt></ruby>し<ruby><rb>理</rb><rt>り</rt></ruby><ruby><rb>解</rb><rt>かい</rt></ruby>するかは，あなた<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>身</rb><rt>しん</rt></ruby>と<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>にとって<ruby><rb>大</rb><rt>たい</rt></ruby><ruby><rb>切</rb><rt>せつ</rt></ruby>なことです。</para>
+				<para paraID="4">あなたが<crossRef fileIDref="30098_300_terms" paraIDref="12">イエス・キリスト</crossRef>の<ruby><rb>教</rb><rt>おし</rt></ruby>えに<ruby><rb>従</rb><rt>したが</rt></ruby>う<ruby><rb>方</rb><rt>ほう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>を<ruby><rb>学</rb><rt>まな</rt></ruby>ぶ<ruby><rb>助</rb><rt>たす</rt></ruby>けとして，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>はあなたに，<crossRef fileIDref="30098_300_terms" paraIDref="18"><ruby><rb>祈</rb><rt>いの</rt></ruby>り</crossRef>，<crossRef fileIDref="30098_300_terms" paraIDref="22"><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>典</rb><rt>てん</rt></ruby></crossRef>を<ruby><rb>読</rb><rt>よ</rt></ruby>み，<ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>緒</rb><rt>しょ</rt></ruby>にビデオクリップを<ruby><rb>見</rb><rt>み</rt></ruby>るように<ruby><rb>勧</rb><rt>すす</rt></ruby>めることでしょう。</para>
+				<para paraID="5">あなたが<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>に<ruby><rb>会</rb><rt>あ</rt></ruby>い<ruby><rb>続</rb><rt>つづ</rt></ruby>ける<ruby><rb>決</rb><rt>けっ</rt></ruby><ruby><rb>心</rb><rt>しん</rt></ruby>をすれば，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は，あなたが<ruby><rb>学</rb><rt>まな</rt></ruby>んで，それについて<ruby><rb>考</rb><rt>かんが</rt></ruby>えることができるように，<ruby><rb>資</rb><rt>し</rt></ruby><ruby><rb>料</rb><rt>りょう</rt></ruby>を<ruby><rb>紹</rb><rt>しょう</rt></ruby><ruby><rb>介</rb><rt>かい</rt></ruby>します。</para>
+				<list listFormat="noMarker">
+					<listItem>
+						<para paraID="6">あなたは<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>緒</rb><rt>しょ</rt></ruby>にこれら<ruby><rb>全</rb><rt>すべ</rt></ruby>てを，あるいはそのうちの<ruby><rb>幾</rb><rt>いく</rt></ruby>つかを<ruby><rb>試</rb><rt>ため</rt></ruby>してみたいと<ruby><rb>思</rb><rt>おも</rt></ruby>いますか。</para>
+					</listItem>
+				</list>
+				<image altText="〔教えを説いている姉妹宣教師の画像〕" mediaID="1434362"/>
+			</bodyBlock>
+		</chapter>
+		<chapter fileID="test30098_300_08">
+			<referenceHeader>
+				<publicationID title="what-might-i-say-to-family-and-friends-who-ask-about-missionaries"/>
+				<workTitle><ruby><rb>家</rb><rt>か</rt></ruby><ruby><rb>族</rb><rt>ぞく</rt></ruby>や<ruby><rb>友</rb><rt>ゆう</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>が<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>について<ruby><rb>尋</rb><rt>たず</rt></ruby>ねたら，<ruby><rb>何</rb><rt>なに</rt></ruby>と<ruby><rb>言</rb><rt>い</rt></ruby>えばよいでしょうか</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>5</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>家</rb><rt>か</rt></ruby><ruby><rb>族</rb><rt>ぞく</rt></ruby>や<ruby><rb>友</rb><rt>ゆう</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>が<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>について<ruby><rb>尋</rb><rt>たず</rt></ruby>ねたら，<ruby><rb>何</rb><rt>なん</rt></ruby>と<ruby><rb>言</rb><rt>い</rt></ruby>えばよいでしょうか</title>
+			</titleBlock>
+			<bodyBlock>
+				<para paraID="2">あなたの<ruby><rb>正</rb><rt>しょう</rt></ruby><ruby><rb>直</rb><rt>じき</rt></ruby>な<ruby><rb>気</rb><rt>き</rt></ruby><ruby><rb>持</rb><rt>も</rt></ruby>ちと<ruby><rb>印</rb><rt>いん</rt></ruby><ruby><rb>象</rb><rt>しょう</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>えてください。</para>
+				<para paraID="3"><urlRef urlPath="http://www.mormon.org"><language langCode="000" emphasize="no">mormon.org/jpn</language></urlRef>や<urlRef urlPath="http://www.lds.org"><language langCode="000" emphasize="no">LDS.org</language></urlRef>など，<ruby><rb>公</rb><rt>こう</rt></ruby><ruby><rb>開</rb><rt>かい</rt></ruby>されているウェブサイトには，すばらしい<ruby><rb>情</rb><rt>じょう</rt></ruby><ruby><rb>報</rb><rt>ほう</rt></ruby>があります。</para>
+				<para paraID="4"><ruby><rb>全</rb><rt>すべ</rt></ruby>ての<ruby><rb>訪</rb><rt>ほう</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>が<crossRef fileIDref="30098_300_terms" paraIDref="4"><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby></crossRef>の<ruby><rb>集</rb><rt>しゅう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby>に<ruby><rb>歓</rb><rt>かん</rt></ruby><ruby><rb>迎</rb><rt>げい</rt></ruby>されます。それは，もっと<ruby><rb>知</rb><rt>し</rt></ruby>りたいと<ruby><rb>思</rb><rt>おも</rt></ruby>っている<ruby><rb>人</rb><rt>ひと</rt></ruby><ruby><rb>々</rb><rt>びと</rt></ruby>にとってすばらしい<ruby><rb>経</rb><rt>けい</rt></ruby><ruby><rb>験</rb><rt>けん</rt></ruby>です。</para>
+				<image altText="〔食卓を囲んでいる家族の画像〕" mediaID="1434266"/>
+			</bodyBlock>
+		</chapter>
+		<chapter fileID="test30098_300_09">
+			<referenceHeader>
+				<publicationID title="if-i-would-like-to-visit-with-missionaries-again-how-might-i-prepare"/>
+				<workTitle>もう<ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>度</rb><rt>ど</rt></ruby><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はな</rt></ruby>したい<ruby><rb>場</rb><rt>ば</rt></ruby><ruby><rb>合</rb><rt>あい</rt></ruby>，どのように<ruby><rb>準</rb><rt>じゅん</rt></ruby><ruby><rb>備</rb><rt>び</rt></ruby>すればよいでしょうか</workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>8</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1">もう<ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>度</rb><rt>ど</rt></ruby><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>会</rb><rt>あ</rt></ruby>って<ruby><rb>話</rb><rt>はな</rt></ruby>したい<ruby><rb>場</rb><rt>ば</rt></ruby><ruby><rb>合</rb><rt>あい</rt></ruby>，どのように<ruby><rb>準</rb><rt>じゅん</rt></ruby><ruby><rb>備</rb><rt>び</rt></ruby>すればよいでしょうか</title>
+			</titleBlock>
+			<bodyBlock>
+				<list listFormat="bullet">
+					<listItem>
+						<label>☐</label>
+						<para paraID="2"><crossRef fileIDref="30098_300_terms" paraIDref="18"><ruby><rb>祈</rb><rt>いの</rt></ruby>る</crossRef>か，あるいは<crossRef fileIDref="30098_300_terms" paraIDref="14"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby></crossRef>に<ruby><rb>頼</rb><rt>たの</rt></ruby>んで<ruby><rb>祈</rb><rt>いの</rt></ruby>る<ruby><rb>方</rb><rt>ほう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>を<ruby><rb>教</rb><rt>おし</rt></ruby>えてもらってください。</para>
+					</listItem>
+					<listItem>
+						<label>☐</label>
+						<para paraID="3"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>から<crossRef fileIDref="30098_300_terms" paraIDref="2">モルモン<ruby><rb>書</rb><rt>しょ</rt></ruby></crossRef>（<ruby><rb>無</rb><rt>む</rt></ruby><ruby><rb>料</rb><rt>りょう</rt></ruby>）を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>取</rb><rt>と</rt></ruby>り，それについて<ruby><rb>簡</rb><rt>かん</rt></ruby><ruby><rb>単</rb><rt>たん</rt></ruby>に<ruby><rb>説</rb><rt>せつ</rt></ruby><ruby><rb>明</rb><rt>めい</rt></ruby>してもらってください。それを<ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>初</rb><rt>しょ</rt></ruby>から<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>始</rb><rt>はじ</rt></ruby>めてください。（<ruby><rb>助</rb><rt>たす</rt></ruby>けがいるなら，<ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>は<ruby><rb>喜</rb><rt>よろこ</rt></ruby>んであなたと<ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>緒</rb><rt>しょ</rt></ruby>に<ruby><rb>読</rb><rt>よ</rt></ruby>みます。）</para>
+					</listItem>
+					<listItem>
+						<label>☐</label>
+						<para paraID="4"><ruby><rb>日</rb><rt>にち</rt></ruby><ruby><rb>曜</rb><rt>よう</rt></ruby><ruby><rb>日</rb><rt>び</rt></ruby>に<crossRef fileIDref="30098_300_terms" paraIDref="4"><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby></crossRef>に<ruby><rb>来</rb><rt>き</rt></ruby>てください。</para>
+					</listItem>
+					<listItem>
+						<label>☐</label>
+						<para paraID="5"><urlRef urlPath="http://www.mormon.org"><language langCode="000" emphasize="no">mormon.org/jpn</language></urlRef>を<ruby><rb>調</rb><rt>しら</rt></ruby>べてください。</para>
+					</listItem>
+					<listItem>
+						<label>☐</label>
+						<para paraID="6"><ruby><rb>次</rb><rt>つぎ</rt></ruby>に<ruby><rb>訪</rb><rt>ほう</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby>するときに<ruby><rb>誰</rb><rt>だれ</rt></ruby>かを<ruby><rb>誘</rb><rt>さそ</rt></ruby>って<ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>緒</rb><rt>しょ</rt></ruby>に<ruby><rb>参</rb><rt>さん</rt></ruby><ruby><rb>加</rb><rt>か</rt></ruby>することを<ruby><rb>考</rb><rt>かんが</rt></ruby>えてください。</para>
+					</listItem>
+				</list>
+				<list listFormat="noMarker">
+					<listItem>
+						<para paraID="7"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>と<ruby><rb>会</rb><rt>あ</rt></ruby>うことを<ruby><rb>続</rb><rt>つづ</rt></ruby>けたいですか。</para>
+					</listItem>
+				</list>
+				<image altText="〔聖典を読んでいる女性の画像〕" mediaID="1434272"/>
+			</bodyBlock>
+		</chapter>
+	</bodyMatter>
+	<backMatter>
+		<chapter fileID="test30098_300_terms">
+			<referenceHeader>
+				<publicationID title="list-of-terms"/>
+				<workTitle><ruby><rb>用</rb><rt>よう</rt></ruby><ruby><rb>語</rb><rt>ご</rt></ruby><ruby><rb>集</rb><rt>しゅう</rt></ruby></workTitle>
+				<subjectGroup>
+					<subject>伝道活動</subject>
+				</subjectGroup>
+				<editor>Doreen McKnight</editor>
+				<nextParaID>24</nextParaID>
+				<versions>
+					<version stage="source" org="publishing-services" timeStamp="2015-08-04T11:14:35.801-06:00">1</version>
+				</versions>
+			</referenceHeader>
+			<titleBlock>
+				<title paraID="1"><ruby><rb>用</rb><rt>よう</rt></ruby><ruby><rb>語</rb><rt>ご</rt></ruby><ruby><rb>集</rb><rt>しゅう</rt></ruby></title>
+			</titleBlock>
+			<bodyBlock>
+				<list listFormat="definition">
+					<listItem>
+						<term paraID="2">イエス・キリスト</term>
+						<definition>
+							<para paraID="3">─<ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>御</rb><rt>おん</rt></ruby><ruby><rb>子</rb><rt>こ</rt></ruby>。およそ2,000<ruby><rb>年</rb><rt>ねん</rt></ruby><ruby><rb>前</rb><rt>まえ</rt></ruby>にお<ruby><rb>生</rb><rt>う</rt></ruby>になった<ruby><rb>御</rb><rt>おん</rt></ruby><ruby><rb>子</rb><rt>こ</rt></ruby>は，<ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>御心</rb><rt>みこころ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>生</rb><rt>せい</rt></ruby><ruby><rb>活</rb><rt>かつ</rt></ruby>する<ruby><rb>方</rb><rt>ほう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>を<ruby><rb>教</rb><rt>おし</rt></ruby>え，<ruby><rb>完</rb><rt>かん</rt></ruby><ruby><rb>全</rb><rt>ぜん</rt></ruby>な<ruby><rb>生</rb><rt>しょう</rt></ruby><ruby><rb>涯</rb><rt>がい</rt></ruby>を<ruby><rb>過</rb><rt>す</rt></ruby>ごし，<ruby><rb>全</rb><rt>すべ</rt></ruby>ての<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>誘</rb><rt>ゆう</rt></ruby><ruby><rb>惑</rb><rt>わく</rt></ruby>と<ruby><rb>罪</rb><rt>つみ</rt></ruby>のために<ruby><rb>苦</rb><rt>くる</rt></ruby>しみを<ruby><rb>受</rb><rt>う</rt></ruby>け，<ruby><rb>十</rb><rt>じゅう</rt></ruby><ruby><rb>字</rb><rt>じ</rt></ruby><ruby><rb>架</rb><rt>か</rt></ruby>につけられ，<ruby><rb>永</rb><rt>えい</rt></ruby><ruby><rb>遠</rb><rt>えん</rt></ruby>に<ruby><rb>再</rb><rt>ふたた</rt></ruby>び<ruby><rb>生</rb><rt>い</rt></ruby>きるためによみがえられた。そして，わたしたちが<ruby><rb>罪</rb><rt>つみ</rt></ruby>から<ruby><rb>清</rb><rt>きよ</rt></ruby>められ，<ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>後</rb><rt>ご</rt></ruby>に<ruby><rb>神</rb><rt>かみ</rt></ruby>のみもとにに<ruby><rb>住</rb><rt>す</rt></ruby>むことができるようにしてくださった。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="4"><ruby><rb>祈</rb><rt>いの</rt></ruby>り</term>
+						<definition>
+							<para paraID="5">─<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>神</rb><rt>かみ</rt></ruby>に<ruby><rb>語</rb><rt>かた</rt></ruby>りかける<ruby><rb>方</rb><rt>ほう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>。わたしたちは<ruby><rb>祈</rb><rt>いの</rt></ruby>りによって<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>が<ruby><rb>感</rb><rt>かん</rt></ruby>じていることを<ruby><rb>述</rb><rt>の</rt></ruby>べ，<ruby><rb>神</rb><rt>かみ</rt></ruby>に<ruby><rb>感</rb><rt>かん</rt></ruby><ruby><rb>謝</rb><rt>しゃ</rt></ruby>し，<ruby><rb>助</rb><rt>たす</rt></ruby>けと<ruby><rb>守</rb><rt>まも</rt></ruby>りと<ruby><rb>指</rb><rt>し</rt></ruby><ruby><rb>示</rb><rt>じ</rt></ruby>を<ruby><rb>求</rb><rt>もと</rt></ruby>めることができる。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="6"><ruby><rb>神</rb><rt>かみ</rt></ruby></term>
+						<definition>
+							<para paraID="7">─この<ruby><rb>言</rb><rt>こと</rt></ruby><ruby><rb>葉</rb><rt>ば</rt></ruby>は<ruby><rb>普</rb><rt>ふ</rt></ruby><ruby><rb>通</rb><rt>つう</rt></ruby>，わたしたちの<ruby><rb>天</rb><rt>てん</rt></ruby>のお<ruby><rb>父</rb><rt>とう</rt></ruby><ruby><rb>様</rb><rt>さま</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>して<ruby><rb>使</rb><rt>つか</rt></ruby>われる。しかし，イエス・キリストに<ruby><rb>対</rb><rt>たい</rt></ruby>しても「<ruby><rb>神</rb><rt>かみ</rt></ruby>」という<ruby><rb>言</rb><rt>こと</rt></ruby><ruby><rb>葉</rb><rt>ば</rt></ruby>が<ruby><rb>使</rb><rt>つか</rt></ruby>われる<ruby><rb>場</rb><rt>ば</rt></ruby><ruby><rb>合</rb><rt>あい</rt></ruby>がある。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="8"><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby></term>
+						<definition>
+							<para paraID="9">─<ruby><rb>現</rb><rt>げん</rt></ruby><ruby><rb>代</rb><rt>だい</rt></ruby>に<ruby><rb>天</rb><rt>てん</rt></ruby>のお<ruby><rb>父</rb><rt>とう</rt></ruby><ruby><rb>様</rb><rt>さま</rt></ruby>とイエス・キリストによって<ruby><rb>回</rb><rt>かい</rt></ruby><ruby><rb>復</rb><rt>ふく</rt></ruby>された<ruby><rb>末</rb><rt>まつ</rt></ruby><ruby><rb>日</rb><rt>じつ</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>徒</rb><rt>と</rt></ruby>イエス・キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby>。この<ruby><rb>言</rb><rt>こと</rt></ruby><ruby><rb>葉</rb><rt>ば</rt></ruby>は，<ruby><rb>末</rb><rt>まつ</rt></ruby><ruby><rb>日</rb><rt>じつ</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>徒</rb><rt>と</rt></ruby>イエス・キリスト<ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby>の<ruby><rb>会</rb><rt>かい</rt></ruby><ruby><rb>員</rb><rt>いん</rt></ruby>が<ruby><rb>集</rb><rt>つど</rt></ruby>う<ruby><rb>建</rb><rt>たて</rt></ruby><ruby><rb>物</rb><rt>もの</rt></ruby>やそこで<ruby><rb>行</rb><rt>おこな</rt></ruby>われる<ruby><rb>集</rb><rt>しゅう</rt></ruby><ruby><rb>会</rb><rt>かい</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>しても<ruby><rb>用</rb><rt>もち</rt></ruby>いられる。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="10"><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>書</rb><rt>しょ</rt></ruby></term>
+						<definition>
+							<para paraID="11">─<ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>特</rb><rt>とく</rt></ruby><ruby><rb>別</rb><rt>べつ</rt></ruby>な<ruby><rb>僕</rb><rt>しもべ</rt></ruby>たち（<ruby><rb>預</rb><rt>よ</rt></ruby><ruby><rb>言</rb><rt>げん</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>たち）によって<ruby><rb>書</rb><rt>か</rt></ruby>かれた<ruby><rb>古</rb><rt>こ</rt></ruby><ruby><rb>代</rb><rt>だい</rt></ruby>の<ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby>な<ruby><rb>記</rb><rt>き</rt></ruby><ruby><rb>録</rb><rt>ろく</rt></ruby>（<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby>4,000<ruby><rb>年</rb><rt>ねん</rt></ruby>－<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby>90<ruby><rb>年</rb><rt>ねん</rt></ruby>）。この<ruby><rb>記</rb><rt>き</rt></ruby><ruby><rb>録</rb><rt>ろく</rt></ruby>はイエス・キリストについて<ruby><rb>証</rb><rt>あかし</rt></ruby>しており，<ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>教</rb><rt>おし</rt></ruby>えが<ruby><rb>含</rb><rt>ふく</rt></ruby>まれている。<small/></para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="12"><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>典</rb><rt>てん</rt></ruby></term>
+						<definition>
+							<para paraID="13">─<ruby><rb>預</rb><rt>よ</rt></ruby><ruby><rb>言</rb><rt>げん</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>たちを<ruby><rb>通</rb><rt>とお</rt></ruby>して<ruby><rb>与</rb><rt>あた</rt></ruby>えられる<ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby>な<ruby><rb>古</rb><rt>こ</rt></ruby><ruby><rb>代</rb><rt>だい</rt></ruby>の<ruby><rb>集</rb><rt>しょ</rt></ruby><ruby><rb>物</rb><rt>もつ</rt></ruby>と<ruby><rb>現</rb><rt>げん</rt></ruby><ruby><rb>代</rb><rt>だい</rt></ruby>の<ruby><rb>集</rb><rt>しょ</rt></ruby><ruby><rb>物</rb><rt>もつ</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めた<ruby><rb>特</rb><rt>とく</rt></ruby><ruby><rb>別</rb><rt>べつ</rt></ruby>な<ruby><rb>記</rb><rt>き</rt></ruby><ruby><rb>録</rb><rt>ろく</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>して<ruby><rb>使</rb><rt>つか</rt></ruby>われる<ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>般</rb><rt>ぱん</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>な<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。イエス・キリストについての<ruby><rb>証</rb><rt>あかし</rt></ruby>と<ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>教</rb><rt>おし</rt></ruby>えが<ruby><rb>含</rb><rt>ふく</rt></ruby>まれている。<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>書</rb><rt>しょ</rt></ruby>とモルモン<ruby><rb>書</rb><rt>しょ</rt></ruby>はそれぞれ，<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>典</rb><rt>てん</rt></ruby>とみなされている<ruby><rb>集</rb><rt>しょ</rt></ruby><ruby><rb>物</rb><rt>もつ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つである。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="14"><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>教</rb><rt>きょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby></term>
+						<definition>
+							<para paraID="15">─<ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>般</rb><rt>ぱん</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>には，<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>意</rb><rt>い</rt></ruby><ruby><rb>志</rb><rt>し</rt></ruby>で<ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>長</rb><rt>ちょう</rt></ruby>24か<ruby><rb>月</rb><rt>げつ</rt></ruby>まで<ruby><rb>奉</rb><rt>ほう</rt></ruby><ruby><rb>仕</rb><rt>し</rt></ruby>することを<ruby><rb>選</rb><rt>えら</rt></ruby>んだ<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>男</rb><rt>だん</rt></ruby><ruby><rb>性</rb><rt>せい</rt></ruby>と<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>女</rb><rt>じょ</rt></ruby><ruby><rb>性</rb><rt>せい</rt></ruby>。<ruby><rb>報</rb><rt>ほう</rt></ruby><ruby><rb>酬</rb><rt>しゅう</rt></ruby>は<ruby><rb>受</rb><rt>う</rt></ruby>けない。<ruby><rb>実</rb><rt>じっ</rt></ruby><ruby><rb>際</rb><rt>さい</rt></ruby>に，ほとんどの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>費</rb><rt>ひ</rt></ruby>で<ruby><rb>奉</rb><rt>ほう</rt></ruby><ruby><rb>仕</rb><rt>し</rt></ruby>している。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="16"><ruby><rb>天</rb><rt>てん</rt></ruby>のお<ruby><rb>父</rb><rt>とう</rt></ruby><ruby><rb>様</rb><rt>さま</rt></ruby></term>
+						<definition>
+							<para paraID="17">─わたしたちの<ruby><rb>霊</rb><rt>れい</rt></ruby>の<ruby><rb>父</rb><rt>ちち</rt></ruby>。<ruby><rb>霊</rb><rt>れい</rt></ruby>とは，わたしたちの<ruby><rb>内</rb><rt>うち</rt></ruby>にあり，わたしたちを<ruby><rb>個</rb><rt>こ</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>としてただ<ruby><rb>一人</rb><rt>ひとり</rt></ruby>の<ruby><rb>存</rb><rt>そん</rt></ruby><ruby><rb>在</rb><rt>ざい</rt></ruby>としている<ruby><rb>要</rb><rt>よう</rt></ruby><ruby><rb>素</rb><rt>そ</rt></ruby>のこと。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="18">モルモン</term>
+						<definition>
+							<para paraID="19">─<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>書</rb><rt>しょ</rt></ruby>とモルモン<ruby><rb>書</rb><rt>しょ</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>られるイエス・キリストの<ruby><rb>教</rb><rt>おし</rt></ruby>えを<ruby><rb>信</rb><rt>しん</rt></ruby>じ，その<ruby><rb>教</rb><rt>おし</rt></ruby>えに<ruby><rb>従</rb><rt>したが</rt></ruby>っている<ruby><rb>人</rb><rt>ひと</rt></ruby><ruby><rb>々</rb><rt>びと</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>して<ruby><rb>時</rb><rt>とき</rt></ruby><ruby><rb>折</rb><rt>おり</rt></ruby><ruby><rb>使</rb><rt>つか</rt></ruby>われる<ruby><rb>一</rb><rt>いっ</rt></ruby><ruby><rb>般</rb><rt>ぱん</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>な<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="20">モルモン<ruby><rb>書</rb><rt>しょ</rt></ruby></term>
+						<definition>
+							<para paraID="21">─<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>書</rb><rt>しょ</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じく，<ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>特</rb><rt>とく</rt></ruby><ruby><rb>別</rb><rt>べつ</rt></ruby>な<ruby><rb>僕</rb><rt>しもべ</rt></ruby>たち（<ruby><rb>預</rb><rt>よ</rt></ruby><ruby><rb>言</rb><rt>げん</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>たち）によって<ruby><rb>書</rb><rt>か</rt></ruby>かれた<ruby><rb>古</rb><rt>こ</rt></ruby><ruby><rb>代</rb><rt>だい</rt></ruby>の<ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby>な<ruby><rb>記</rb><rt>き</rt></ruby><ruby><rb>録</rb><rt>ろく</rt></ruby>（<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby>600<ruby><rb>年</rb><rt>ねん</rt></ruby>－<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby>420<ruby><rb>年</rb><rt>ねん</rt></ruby>）。この<ruby><rb>記</rb><rt>き</rt></ruby><ruby><rb>録</rb><rt>ろく</rt></ruby>はイエス・キリストについて<ruby><rb>証</rb><rt>あかし</rt></ruby>しており，<ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>教</rb><rt>おし</rt></ruby>えが<ruby><rb>含</rb><rt>ふく</rt></ruby>まれている。</para>
+						</definition>
+					</listItem>
+					<listItem>
+						<term paraID="22"><ruby><rb>預</rb><rt>よ</rt></ruby><ruby><rb>言</rb><rt>げん</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby></term>
+						<definition>
+							<para paraID="23">─<ruby><rb>神</rb><rt>かみ</rt></ruby>によって<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ，<ruby><rb>神</rb><rt>かみ</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>語</rb><rt>かた</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>預</rb><rt>よ</rt></ruby><ruby><rb>言</rb><rt>げん</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>のおもな<ruby><rb>責</rb><rt>せき</rt></ruby><ruby><rb>任</rb><rt>にん</rt></ruby>は，イエス・キリストについて<ruby><rb>証</rb><rt>あかし</rt></ruby>を<ruby><rb>述</rb><rt>の</rt></ruby>べることである。</para>
+						</definition>
+					</listItem>
+				</list>
+			</bodyBlock>
+		</chapter>
+	</backMatter>
+</book>

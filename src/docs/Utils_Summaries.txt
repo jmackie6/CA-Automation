@@ -1,0 +1,57 @@
+Basic Summaries for classes in the Util folder - updated June 2018
+
+Constants - files with constants used across multiple methods
+SeleniumUtil - classes for each page and methods to hit buttons
+    - PreTestSetup
+        Get the webdrivers all set up.  Also method for moving the mouse to hover over buttons
+    - Actions
+        Selenium methods to select and navigate through the actions modal (and following modals)
+    - BulkOperations
+        Selenium method around the Bulk Operations modal and the following modal
+
+
+xml - single class to set up the Namespace needed for XML parsing
+
+BrowserUtils
+    - thread.sleep method, check ErrorLogs fo the webdriver
+ErrorUtils
+    - make Error arraylists into a string for easy print reporting
+    - methods for transform valdation tests
+    - methods for making and redirecting http calls
+JDBCUtils
+    - methods dealing with getting information from the database
+    - methods for untangling clobs and blobs
+LogUtils
+    - Get the logger
+MarkLogicUtils
+    - Methods for dealing with Mark Logic
+MediaUtils
+    - not currently working
+    - verify that audio works?
+NetUtils
+    - basic http calls and different return types given a url
+QADocumentUtils
+    - Make Documents from filePaths
+    - Some methods to parse Documents for information
+QAFilesUtils
+    - Grab all files in a folder recursively
+    - also verify if docs are docx
+QATitanUtils
+    - delete from titan
+    - verify if it exists in titan
+    (NetUtils like methods)
+QATransformationResult
+    - object created from transform result data
+    - methods to create this object
+RoleAssignment
+    - Assign roles to a user
+SetupTests
+    - wait for loading pages to finish loading
+    - unlock all docs in db
+XMLUtils
+    - create documents from Strings/files/etc
+    - parse xml
+XPathUtils
+    - get specific items from xml
+XSLUtils
+    - transform?

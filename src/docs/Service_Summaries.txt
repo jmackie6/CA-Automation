@@ -1,0 +1,43 @@
+Basic Summaries for the classes in the Service folder - Updated June 2018
+ - Documents folder - no idea
+ 
+ - QACrossRefService
+		These methods are used only by the QACrossRefTest class.  
+			Methods for deleting from content_publish, validation_error, and document_content_group tables.
+			Methods for dealing with URI Mapping
+			
+ - QADamService
+		Set Dam Failures for document IDs in the DamFailureDoc.txt
+		
+ - QADeleteService
+		Various methods to delete documents from Database, Mark Logic, Annotation, Uri Mapping, 
+ 
+ - QADocMapService
+		Get and Delete DocMap
+		
+ - QADocumentService
+		Get, delete, update methods involving documents in the database.
+		pull out data clobs and convert them to QAHtml5Documents
+		
+ - QALanguageService
+		Get information about Languages from the database
+ 
+ - QALockUnlockService
+		Lock and Unlock documents.  Also verify whether document is locked/unlocked
+ 
+ - QAManifestService
+		get document ids based off partial fileIDs
+ 
+ - QAPublishService
+		get information from publish database tables
+		call the QAPublish endpoint
+ 
+ - QASandboxTransformService
+		Methods to do the transform in sandbox mode and check results
+	
+ - QATransformService
+		Different ways to transform documents, convert types of documents, and convert content_groups to ids
+ 
+ - QAValidationErrorService
+		Get information from the validation_error tables
+		

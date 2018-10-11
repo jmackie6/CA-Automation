@@ -1,0 +1,7 @@
+ThreadName,NumOfThreads,AverageTime,MinTime,MaxTime
+EditorialTransform,100,1527,558,5575
+Preview,2980,7822,12,599883
+QAPublishFile,100,71,41,550
+QASandboxPreview,5280,27,15,1028
+QASandboxTransform,5280,341,206,1760
+Total,13740,1850,12,599883

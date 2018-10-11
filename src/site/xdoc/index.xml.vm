@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<document xmlns="http://maven.apache.org/XDOC/2.0"
+		  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		  xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+
+	<properties>
+		<title>${project.name}</title>
+	</properties>
+
+	<body>
+		<section name="Overview">
+			<p>
+				Overview of Module
+			</p>
+		</section>
+		<section name="Usage">
+			<subsection name="Dependencies">
+				<p>
+					How to configure the dependencies of a project to use this module.
+				</p>
+			</subsection>
+			<subsection name="Configuration">
+				<p>
+					How to configure a project to use this module.
+				</p>
+			</subsection>
+		</section>
+	</body>
+</document>
